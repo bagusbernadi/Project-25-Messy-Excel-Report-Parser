@@ -176,16 +176,33 @@ div.row{cursor:default}.row .n{width:130px}.row .c{width:78px}
 @media (min-width:1200px){.wa{display:grid;grid-template-columns:repeat(5,1fr);gap:34px;padding:0 9px;text-align:center}.wa.r span{grid-column:5}.wa.l span{grid-column:1}.ws.rev{direction:rtl}.ws.rev .wb{direction:ltr}.ws.rev .wb:not(:last-child)::after{content:"←";right:auto;left:-25px}}
 #chart svg{display:block;width:100%;height:auto;font-family:var(--f)}
 @media (max-width:620px){.row .n{width:96px}.row .c{width:66px}.ctl{flex-wrap:wrap}.ctl label{flex-basis:100%}}
+.tab{flex:none;font:inherit;font-size:15px;font-weight:800;cursor:pointer;background:var(--card);border:2px solid var(--line);color:var(--ink);border-radius:999px;padding:6px 16px}
+.tab[data-t=design]{--c:var(--navy)}.tab[data-t=report]{--c:var(--teal)}
+.tab:hover{border-color:var(--c)}.tab.on{background:var(--c);border-color:var(--c);color:#fff}.tab:focus-visible{outline:3px solid var(--amber);outline-offset:2px}
+.links{display:contents}.links[data-tab=design]{--ac:var(--navy)}.links[data-tab=report]{--ac:var(--teal)}
+.links a{font-size:13.5px;font-weight:600;color:var(--mut);padding:5px 12px}
+.pane code{font-size:.92em;background:var(--sub);border-radius:4px;padding:1px 5px;overflow-wrap:anywhere}
+.pane pre{background:var(--sub);border:1px solid var(--line);border-radius:12px;padding:12px 16px;overflow-x:auto;font-size:14px;line-height:1.5}.pane pre code{background:none;padding:0;overflow-wrap:normal}
+.pill.p{background:var(--amber);color:var(--amber-ink)}
+.callout a{color:inherit;font-weight:700;text-decoration:underline}
+@media (min-width:1280px){
+main>nav{gap:8px}
+.tab{border-radius:12px;font-size:16px;padding:12px 16px;text-align:left;border-left:8px solid var(--c)}
+.links{display:flex;flex-direction:column;gap:2px;margin:0 0 8px 12px;padding-left:12px;border-left:3px solid var(--ac)}
+main>nav .links a{background:none;border:0;border-radius:8px;font-size:14.5px;font-weight:600;color:var(--mut);padding:6px 10px}
+main>nav .links a:hover,main>nav .links a:focus-visible{background:var(--soft);color:var(--head)}
+}
 </style>
 </head><body>
 <a href="https://bagusbernadi.github.io/" style="display:inline-block;margin:12px 16px;font:600 14px/1.4 'Source Sans 3',Arial,sans-serif;color:#1A73E8;text-decoration:none">← All projects / Semua project</a>
 <main>
-<nav aria-label="Section navigation"><a href="#s1">Background</a><a href="#s2">Business Questions</a><a href="#s3">Messy to Tidy Flow</a><a href="#s4">Dataset</a><a href="#s5">Tools</a><a href="#s6">Work Plan</a><a href="#s7">Project Outputs</a><a href="#s8">Success Criteria</a><a href="#s9">Assumptions &amp; Limitations</a></nav>
+<nav aria-label="Project navigation"><button type="button" class="tab on" data-t="design" aria-expanded="true" aria-controls="design">Design Project</button><div class="links" data-tab="design"><a href="#s1">Background</a><a href="#s2">Business Questions</a><a href="#s3">Messy to Tidy Flow</a><a href="#s4">Dataset</a><a href="#s5">Tools</a><a href="#s6">Work Plan</a><a href="#s7">Project Outputs</a><a href="#s8">Success Criteria</a><a href="#s9">Assumptions &amp; Limitations</a></div><button type="button" class="tab" data-t="report" aria-expanded="false" aria-controls="report">Report Project</button><div class="links" data-tab="report" hidden><a href="#rp1">Problem</a><a href="#rp2">Data</a><a href="#rp3">Analysis</a><a href="#rp4">Recommendation</a><a href="#rp5">Impact</a><a href="#rp6">Batasan</a></div></nav>
 
 <header class="banner"><h1>Project 25: Messy Excel Report Parser</h1>
 <p class="goal"><b>Tujuan project:</b> membangun parser yang mengubah laporan Excel manual berlayout bebas menjadi satu tabel tidy yang terbukti cocok dengan angka laporan aslinya, lalu membandingkan empat metode pengerjaan agar tim bisa memilih cara yang paling hemat waktu dan paling tahan terhadap perubahan layout.</p>
 <div class="tags"><span class="tlab">Kategori:</span><span class="tag a">Rancangan project</span><span class="tag c1">Manufaktur minuman kemasan</span><span class="tag c2">Data simulasi</span><span class="tag c3">Python + SQL + dashboard</span></div></header>
 
+<div class="pane" id="design" data-tab="design">
 <section class="card intro">
 <h3>Project Introduction</h3>
 <p>Bayangkan seorang akuntan yang setiap akhir bulan harus merekap buku catatan penjualan dari enam cabang warung. Setiap kasir menulis dengan gayanya sendiri. Ada yang menulis tanggal di bagian atas halaman, ada yang di samping. Ada yang menulis "jumlah halaman ini" di tengah halaman, ada yang menambahkan coretan di pinggir. Akuntan itu menyalin angka satu per satu ke buku besar, lalu mencocokkan totalnya.</p>
@@ -463,6 +480,39 @@ div.row{cursor:default}.row .n{width:130px}.row .c{width:78px}
 <p><b>Rekonsiliasi butuh subtotal.</b> Blok tanpa subtotal hanya bisa dicek lewat tes ground truth dan cek sampel manual.</p>
 <p><b>Merged cell.</b> Nilai merged cell hanya tersimpan di sel kiri atas. Aturan pengisian ke sel lain harus jelas per template agar tidak menggandakan angka.</p>
 <p><b>Data simulasi lebih rapi dari aslinya.</b> Laporan kerja nyata bisa punya masalah yang tidak terpikirkan. Uji coba pada satu laporan asli yang sudah dianonimkan (Project 24) disarankan sebelum dipakai di lapangan.</p></details></div></div>
+</div>
+
+<div class="pane" id="report" data-tab="report" hidden>
+<div class="callout a"><h4>Status Report Project</h4><p>Laporan hasil diisi setelah analisis dikerjakan. Sudah ditulis: Problem, Data, Analysis, Recommendation, Impact, Batasan. Rancangan lengkap ada di tab <a href="#design">Design Project</a>.</p></div>
+<div class="scroll"><table><tr><th>Bagian</th><th>Status</th></tr>
+<tr><td><b>Problem</b></td><td><span class="pill">Draft</span></td></tr>
+<tr><td><b>Data</b></td><td><span class="pill">Draft</span></td></tr>
+<tr><td><b>Analysis</b></td><td><span class="pill">Draft</span></td></tr>
+<tr><td><b>Recommendation</b></td><td><span class="pill">Draft</span></td></tr>
+<tr><td><b>Impact</b></td><td><span class="pill">Draft</span></td></tr>
+<tr><td><b>Batasan</b></td><td><span class="pill">Draft</span></td></tr>
+</table></div>
+
+<h2 id="rp1">1. Problem<small>Pertanyaan yang ingin dijawab</small></h2>
+<div class="card"><p><b>Pertanyaan utama:</b> Bagaimana mengubah laporan Excel manual berlayout bebas menjadi tabel tidy tanpa copy-paste, membuktikan bahwa hasilnya benar, dan memilih metode yang paling cocok untuk tiap situasi?</p>
+<p>Rancangan memecahnya menjadi 15 pertanyaan (10 Utama, 4 Pendukung, 1 Tambahan) dalam 7 tema: layout, akurasi, ketahanan, metode, pemakaian hasil, dampak, dan validitas. Daftar lengkap ada di bagian 2 halaman rancangan.</p></div>
+
+<h2 id="rp2">2. Data<small>Sumber, ukuran, dan perlakuan awal</small></h2>
+<div class="card"><ul class="tight"><li>Sumber: data simulasi buatan sendiri, dibuat oleh <code>scripts/generate_reports.py</code> (Versi: v1, rancangan; Tanggal dibuat: saat Tahap B dikerjakan). Tidak memakai dataset publik atau data perusahaan.</li><li>Konteks: pabrik minuman kemasan botol, 10 stasiun (Water Treatment sampai Palletizing), 3 ukuran botol (330 ml, 600 ml, 1,5 L), 2 shift.</li><li>Ukuran (perkiraan): 6 template layout × 6 bulan = ±36 file Excel; tabel tidy ±27.000 baris.</li><li>Rencana tabel: <code>fact_output_tidy</code>, <code>anomaly_log</code>, <code>reconciliation</code>, <code>method_benchmark</code>.</li><li>Fakta yang sengaja ditanam: 6 jenis masalah layout, perubahan layout di bulan ke-4, 2 subtotal salah ketik, 1 sheet ganda, dan 2–3% sel kotor.</li></ul></div>
+
+<h2 id="rp3">3. Analysis<small>Hasil perhitungan dari data</small></h2>
+<div class="card"><p>Belum dikerjakan. Rencana langkah (12 langkah, tahap A sampai D) ada di bagian 6 halaman rancangan. Hasil parser dicocokkan dengan subtotal laporan (rekonsiliasi) dan dengan data rapi asli (ground truth), lalu dicek silang dengan Excel.</p></div>
+
+<h2 id="rp4">4. Recommendation<small>Tindakan yang disarankan dari temuan</small></h2>
+<div class="card"><p>Belum dikerjakan. Output yang direncanakan: matriks rekomendasi metode per situasi (rumus Excel untuk end user, Power Query untuk tim non-programmer, Python untuk banyak file, SQL untuk data yang sudah di database).</p></div>
+
+<h2 id="rp5">5. Impact<small>Seberapa besar manfaatnya</small></h2>
+<div class="card"><p>Belum dikerjakan. Rumus yang akan dipakai (semua hasil diberi label <code>estimated</code> dan <code>simulated</code>):</p>
+<pre><code>Jam dihemat per tahun = laporan per bulan × menit copy-paste per laporan × 12 ÷ 60</code></pre></div>
+
+<h2 id="rp6">6. Batasan yang sudah diketahui<small>Hal yang perlu diwaspadai saat membaca hasil</small></h2>
+<div class="card"><ul class="tight"><li>Parser hanya seandal config-nya. Layout yang berubah total tetap butuh config baru.</li><li>Rekonsiliasi hanya bisa dilakukan pada blok yang punya subtotal.</li><li>Waktu pembuatan tiap metode dicatat sendiri oleh satu orang, sehingga bias. Bias ini ditulis terbuka.</li><li>Data simulasi lebih rapi dari laporan nyata.</li></ul></div>
+</div>
 </main>
 
 <script>
@@ -494,6 +544,14 @@ addEventListener('scroll',()=>tip.style.display='none',{passive:true});
 const qg=$('qg');document.querySelector('.fbar').onclick=e=>{const b=e.target.closest('.fb');if(!b)return;const f=b.dataset.f;
 document.querySelectorAll('.fb').forEach(x=>x.classList.toggle('on',x==b));let th=null,vis=0;
 [...qg.children].forEach(el=>{if(el.classList.contains('theme')){if(th)th.hidden=!vis;th=el;vis=0}else{const show=f=='*'||el.dataset.p==f;el.hidden=!show;if(show)vis++}});if(th)th.hidden=!vis};
-let seen=new Set();[...document.querySelector('main').children].forEach(el=>{if(el.tagName=='H2')seen=new Set();hl(el,seen)});
+let seen=new Set();document.querySelectorAll('main>.pane>*').forEach(el=>{if(el.tagName=='H2')seen=new Set();hl(el,seen)});
+
+const TB=[...document.querySelectorAll('.tab')];
+function setTab(t){document.querySelectorAll('.pane,.links').forEach(e=>e.hidden=e.dataset.tab!==t);TB.forEach(x=>{const on=x.dataset.t===t;x.classList.toggle('on',on);x.setAttribute('aria-expanded',on)})}
+function route(){const h=decodeURIComponent(location.hash.slice(1)),el=h&&document.getElementById(h);
+if(h=='design'||h=='report'){setTab(h);scrollTo(0,0);return}
+if(el){const p=el.closest('.pane');if(p){setTab(p.dataset.tab);el.scrollIntoView()}}}
+TB.forEach(x=>x.onclick=()=>{location.hash=x.dataset.t});
+addEventListener('hashchange',route);route();
 </script>
 </body></html>
