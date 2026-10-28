@@ -21,7 +21,7 @@ Rancangan memecahnya menjadi 15 pertanyaan (10 Utama, 4 Pendukung, 1 Tambahan) d
 
 ## 2. Data
 
-- Sumber: data simulasi buatan sendiri, dibuat oleh `scripts/generate_reports.py` (Versi: v1, rancangan; Tanggal dibuat: saat Tahap B dikerjakan). Tidak memakai dataset publik atau data perusahaan.
+- Sumber: data simulasi buatan sendiri, dibuat oleh `scripts/generate_reports.py` (Versi: v1; Tanggal dibuat: 28 Okt 2026; Seed: 25260302). Tidak memakai dataset publik atau data perusahaan.
 - Konteks: pabrik minuman kemasan botol, 10 stasiun (Water Treatment sampai Palletizing), 3 ukuran botol (330 ml, 600 ml, 1,5 L), 2 shift.
 - Ukuran (perkiraan): 6 template layout × 6 bulan = ±36 file Excel; tabel tidy ±27.000 baris.
 - Rencana tabel: `fact_output_tidy`, `anomaly_log`, `reconciliation`, `method_benchmark`.
