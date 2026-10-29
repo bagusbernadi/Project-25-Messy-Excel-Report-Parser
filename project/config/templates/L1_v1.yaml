@@ -1,0 +1,17 @@
+id: L1_v1
+layout: 1
+description: Tanggal sebagai kolom; blok PRODUKSI lalu REJECT; judul 2 baris
+reader: date_columns
+detect:
+  sheet_regex: '^Sheet1$'
+  cells:
+    - {cell: A1, equals: LAPORAN PRODUKSI HARIAN}
+    - {cell: A3, empty: true}
+sheets: {include: '^Sheet1$'}
+period: {cell: A2, regex: 'Periode: (\w{3}) (\d{4})'}
+marker_col: A
+blocks: {PRODUKSI: produced, REJECT: reject}
+key_columns: {A: station, B: size, C: shift, D: slot}
+first_value_col: E
+date_header_format: 'dd/mm'
+subtotal_prefix: TOTAL

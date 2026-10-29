@@ -1,0 +1,9 @@
+item,value
+Sel angka salah atau hilang di laporan (tanpa unit_text dan duplikat),734.0
+  di file yang punya subtotal (layout 1 dan 2),326.0
+"  di file tanpa subtotal (layout 3, 4, 6)",408.0
+Sel salah yang tercatat di log anomali,734.0
+Sel salah yang lolos tanpa tercatat,0.0
+Sel berformat teks (unit_text) yang dibersihkan,240.0
+Sel salah yang nilainya dipulihkan tepat lewat subtotal,252.0
+Pembanding rekap copy-paste manual (tidak diukur),

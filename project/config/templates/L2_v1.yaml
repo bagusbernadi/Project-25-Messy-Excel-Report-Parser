@@ -1,0 +1,19 @@
+id: L2_v1
+layout: 2
+description: Blok per tanggal dan shift; slot melebar; subtotal per shift
+reader: date_shift_groups
+detect:
+  sheet_regex: '^Laporan$'
+  cells:
+    - {cell: A1, startswith: 'Tanggal:'}
+sheets: {include: '^Laporan$'}
+date_marker: '^Tanggal: (\d{1,2}) (\w{3}) (\d{4})$'
+shift_marker: '^Shift \d$'
+subtotal_prefix: Subtotal
+label_col: A
+header_label: Stasiun
+columns:
+  station: A
+  size: B
+  slots: {1: [C, D], 2: [E, F], 3: [G, H]}   # [produced, reject] per slot
+  row_total_produced: I

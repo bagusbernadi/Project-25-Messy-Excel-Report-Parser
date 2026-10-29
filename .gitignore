@@ -1,3 +1,10 @@
-data/*
-!data/README.md
+project/data/*
+!project/data/README.md
+!project/data/samples/
+*.duckdb
+.env
+.env.*
 __pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/

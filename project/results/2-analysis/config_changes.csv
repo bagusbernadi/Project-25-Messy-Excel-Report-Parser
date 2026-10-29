@@ -1,0 +1,4 @@
+layout,from_config,to_config,lines_in_new_file,lines_changed,lines_changed_excluding_id_description,python_lines_changed
+1,L1_v1,L1_v2,17,4,2,0
+3,L3_v1,L3_v2,17,4,2,0
+0,(tidak ada),template baru dari nol (rata-rata 6 template v1),18,18,16,0

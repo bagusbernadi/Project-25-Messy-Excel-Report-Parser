@@ -1,0 +1,4 @@
+layout,kind,subtotals,match_raw,match_final,recovered_this,recovered_other,open_bad_cells,suspect_subtotal,match_rate_raw,match_rate_final
+1,subtotal,300,173,269,96,0,31,0,0.5766666666666667,0.8966666666666666
+2,row_total,1800,1712,1800,85,3,0,0,0.9511111111111112,1.0
+2,subtotal,2100,1868,2095,71,156,3,2,0.8895238095238095,0.9976190476190476

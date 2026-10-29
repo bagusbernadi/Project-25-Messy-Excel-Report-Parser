@@ -1,0 +1,17 @@
+id: L3_v1
+layout: 3
+description: Satu sheet per minggu; header dua tingkat digabung
+reader: wide_groups
+detect:
+  sheet_regex: '^Minggu \d+$'
+  cells:
+    - {cell: A1, startswith: 'Output mingguan'}
+sheets: {include: '^Minggu \d+$'}
+group_header_row: 3
+sub_header_row: 4
+first_data_row: 5
+key_columns: {A: date, B: shift, C: slot}
+first_value_col: D
+group_header: {split: ' - ', fields: [station, size]}
+sub_headers: {Prod: produced, Rej: reject}
+date_formats: ['%d/%m/%Y']

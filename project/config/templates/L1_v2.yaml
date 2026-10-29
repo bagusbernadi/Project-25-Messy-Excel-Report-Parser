@@ -1,0 +1,17 @@
+id: L1_v2
+layout: 1
+description: Seperti L1_v1; judul 4 baris dan kolom Catatan/Paraf (bulan ke-4)
+reader: date_columns
+detect:
+  sheet_regex: '^Sheet1$'
+  cells:
+    - {cell: A1, equals: LAPORAN PRODUKSI HARIAN}
+    - {cell: A3, contains: Revisi form}
+sheets: {include: '^Sheet1$'}
+period: {cell: A2, regex: 'Periode: (\w{3}) (\d{4})'}
+marker_col: A
+blocks: {PRODUKSI: produced, REJECT: reject}
+key_columns: {A: station, B: size, C: shift, D: slot}
+first_value_col: G
+date_header_format: 'dd/mm'
+subtotal_prefix: TOTAL

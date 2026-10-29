@@ -1,0 +1,15 @@
+# Aturan pembersihan angka dan deteksi sel mencurigakan (berlaku untuk semua template).
+numbers:
+  missing_tokens: ["n/a", "na", "-", "--", ""]   # dibaca sebagai hilang (bukan nol): '-' di laporan ini menggantikan angka sebenarnya
+  dash_tokens: ["-", "--"]
+  thousands_sep: "."                              # penulisan Indonesia: 3.200
+  units: [btl, pcs]
+outlier:
+  robust_z: 6.0          # |nilai - median| / (1.4826 x MAD), per (stasiun, ukuran, metrik)
+  min_scale_reject: 3.0  # lantai skala untuk reject (angka kecil, sebaran mendekati Poisson)
+  min_scale_produced: 50.0
+reconcile:
+  tolerance: 0           # selisih yang diterima antara subtotal laporan dan total hasil parsing
+duplicate_sheet:
+  name_regex: ' \(\d+\)$'
+  min_similarity: 0.9

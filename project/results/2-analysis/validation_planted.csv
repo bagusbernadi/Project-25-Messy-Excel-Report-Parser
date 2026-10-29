@@ -1,0 +1,10 @@
+fact_id,fact,check,planted,detected,note,recall
+1,Enam layout dikenali,file yang cocok dengan layout aslinya,36,36,"template dipilih otomatis dari isi sel, bukan dari nama file",1.0
+2,Perubahan layout bulan ke-4,file layout 1 dan 3 memakai config yang benar,12,12,bulan 1-3: config v1; bulan 4-6: config v2,1.0
+3,Subtotal salah ketik,subtotal salah yang tercatat sebagai subtotal_mismatch,2,2,keduanya di layout 2,1.0
+4,Sheet ganda,sheet ganda yang dibuang,1,1,dikenali dari nama salinan dan kemiripan isi,1.0
+5,Sel kotor: teks 'n/a',sel yang benar-benar berubah di file dan tercatat,246,246,,1.0
+5,Sel kotor: tanda '-',sel yang benar-benar berubah di file dan tercatat,246,246,,1.0
+5,Sel kotor: angka kali 10,sel yang benar-benar berubah di file dan tercatat,240,240,,1.0
+5,Sel kotor: angka dengan satuan,sel yang benar-benar berubah di file dan tercatat,240,240,,1.0
+5,Sel kotor: sel kosong,sel yang benar-benar berubah di file dan tercatat,0,0,tidak ada yang berubah: pembuat data tidak benar-benar mengosongkan sel,

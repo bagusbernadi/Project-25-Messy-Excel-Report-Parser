@@ -1,0 +1,15 @@
+item,value
+sel nilai pada kunci jawaban,54000.0
+sel yang ada di hasil parsing,54000.0
+sel sama persis dengan kunci jawaban,53520.0
+persen sama persis,0.9911111111111112
+sel berstatus ok atau fixed,53520.0
+sel ok atau fixed yang sama persis,53520.0
+persen ok atau fixed yang sama persis,1.0
+sel berstatus fixed,492.0
+sel fixed yang sama persis,492.0
+"sel berstatus flagged (nilai dipertahankan, mencurigakan)",161.0
+sel flagged yang bernilai 10 kali kunci jawaban,161.0
+sel berstatus missing (tidak ada nilai),319.0
+sel bermasalah di log (flagged + missing),480.0
+sel salah yang lolos tanpa tanda (ok atau fixed tetapi beda dari kunci),0.0

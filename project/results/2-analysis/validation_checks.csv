@@ -1,0 +1,8 @@
+question,check,n_tested,n_pass,result
+Q4,Jumlah sel hasil parsing = jumlah sel kunci jawaban,54000,54000,lulus
+Q4,"Tidak ada kunci ganda (tanggal, shift, slot, stasiun, ukuran, metrik)",54000,54000,lulus
+Q4,Setiap sel kunci jawaban ada di hasil parsing,54000,54000,lulus
+Q15,Anomali tercatat yang bukan sel yang ditanam (positif palsu),975,975,lulus
+Q6,Setiap file cocok dengan tepat satu template,36,36,lulus
+Q6,Parsing dua kali menghasilkan tabel tidy identik (SHA-256),1,1,lulus
+Q4,Sel berstatus ok atau fixed yang berbeda dari kunci jawaban,53520,53520,lulus

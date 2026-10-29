@@ -1,0 +1,17 @@
+id: L5_v1
+layout: 5
+description: Tabel rata; tanggal, shift, stasiun, dan ukuran ditulis tidak seragam; angka sebagai teks dengan satuan
+reader: flat
+detect:
+  sheet_regex: '^Data$'
+  cells:
+    - {cell: A1, equals: Tgl}
+    - {cell: F1, equals: Hasil}
+sheets: {include: '^Data$'}
+header_row: 1
+first_data_row: 2
+blocks:
+  - {start_col: A}
+columns: [date, shift, time, station, size, produced, reject]
+date_formats: ['%d-%b-%y', '%Y/%m/%d', '%d.%m.%Y']
+text_numbers_expected: true      # angka berbentuk teks '3.200 btl' memang format laporan ini, bukan anomali

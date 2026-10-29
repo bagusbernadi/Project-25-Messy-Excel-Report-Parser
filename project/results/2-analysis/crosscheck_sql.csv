@@ -1,0 +1,19 @@
+check,sql,pandas,diff,match
+sel berstatus ok,53028.0,53028.0,0.0,True
+sel berstatus fixed,492.0,492.0,0.0,True
+sel berstatus flagged,161.0,161.0,0.0,True
+sel berstatus missing,319.0,319.0,0.0,True
+sel pada kunci jawaban,54000.0,54000.0,0.0,True
+sel sama persis dengan kunci jawaban,53520.0,53520.0,0.0,True
+subtotal cocok sebelum pemulihan,3753.0,3753.0,0.0,True
+subtotal selisih sebelum pemulihan,447.0,447.0,0.0,True
+subtotal cocok sesudah pemulihan,4164.0,4164.0,0.0,True
+anomali unit_text,240.0,240.0,0.0,True
+anomali text_na,246.0,246.0,0.0,True
+anomali outlier,240.0,240.0,0.0,True
+anomali dash,246.0,246.0,0.0,True
+anomali duplicate_sheet,1.0,1.0,0.0,True
+anomali subtotal_mismatch,2.0,2.0,0.0,True
+reject rate tertinggi (stasiun tepercaya),0.0200022475434913,0.0200022475434913,0.0,True
+produksi total tepercaya,66906278.0,66906278.0,0.0,True
+produksi total di pivot (semua nilai),68747668.0,68747668.0,0.0,True

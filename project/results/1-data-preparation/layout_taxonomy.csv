@@ -1,0 +1,10 @@
+problem,description,files,layout1,layout2,layout3,layout4,layout5,layout6
+merged_header,Header digabung (merged cell) di dalam tabel,12,0,0,6,0,0,6
+multi_table,Lebih dari satu tabel dalam satu sheet,12,6,0,0,6,0,0
+subtotal_inside,Baris subtotal atau total di tengah data,12,6,6,0,0,0,0
+dates_as_columns,Tanggal berjajar sebagai kolom,6,6,0,0,0,0,0
+hidden_or_footnote,Baris tersembunyi atau catatan kaki,6,0,0,0,0,0,6
+inconsistent_labels,"Nama stasiun, ukuran, atau tanggal ditulis tidak seragam",6,0,0,0,0,6,0
+sheet_per_period,Satu sheet per minggu,6,0,0,6,0,0,0
+text_numbers,Angka tersimpan sebagai teks dengan satuan,6,0,0,0,0,6,0
+extra_columns,Kolom catatan atau paraf di luar data,3,3,0,0,0,0,0

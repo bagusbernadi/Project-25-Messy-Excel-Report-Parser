@@ -1,0 +1,17 @@
+method,scenario,n_files,build_size,build_unit,run_seconds,result_match,result_match_before_fix,fix_size,fix_unit,build_minutes,fix_minutes,status,note
+Rumus Excel,"S1 satu file (layout 1, Mar)",1,17.0,rumus unik + 6 parameter,0.9420278420002433,0.985,,,,,,diukur,waktu = hitung ulang di LibreOffice headless (bukan Excel)
+SQL (DuckDB),"S1 satu file (layout 1, Mar)",1,18.0,baris SQL,0.9452320609998424,0.985,,,,,,diukur,waktu mencakup memuat sel ke tabel; SQL tidak membaca .xlsx langsung
+Python (parser),"S1 satu file (layout 1, Mar)",1,17.0,baris config (+496 baris mesin dipakai ulang),0.0712227939993681,0.9955555555555556,,,,,,diukur,hasil termasuk pemulihan lewat subtotal dan penandaan sel mencurigakan
+Power Query,"S1 satu file (layout 1, Mar)",1,25.0,baris M,,,,,,,,tidak dijalankan,kode ditulis (methods/power_query/L1_v1.pq) tetapi tidak ada Excel untuk menjalankannya
+Rumus Excel,S2 enam file layout 1 (Mar-Agu),6,17.0,rumus unik + 6 parameter,6.008808183999463,0.985,,,,,,diukur,satu workbook per file; parameter kolom pertama diubah untuk 3 file terakhir
+SQL (DuckDB),S2 enam file layout 1 (Mar-Agu),6,18.0,baris SQL,5.558529230000204,0.985,,,,,,diukur,"query sama, parameter first_value_col berbeda untuk 3 file terakhir"
+Python (parser),S2 enam file layout 1 (Mar-Agu),6,34.0,baris config (2 file config),0.3084895510000933,0.9938888888888888,,,,,,diukur,template dipilih otomatis per file
+Power Query,S2 enam file layout 1 (Mar-Agu),6,32.0,baris M,,,,,,,,tidak dijalankan,ada contoh penggabungan folder (combine_folder.pq)
+Python (parser),"S3 36 file, 6 layout",36,140.0,baris config (8 file config),2.9554712179997296,0.9911111111111112,,,,,,diukur,
+Rumus Excel,"S3 36 file, 6 layout",36,,,,,,,,,,tidak dikerjakan,perlu definisi untuk 5 layout lain (dan satu per file untuk rumus Excel)
+SQL (DuckDB),"S3 36 file, 6 layout",36,,,,,,,,,,tidak dikerjakan,perlu definisi untuk 5 layout lain (dan satu per file untuk rumus Excel)
+Power Query,"S3 36 file, 6 layout",36,,,,,,,,,,tidak dikerjakan,perlu definisi untuk 5 layout lain (dan satu per file untuk rumus Excel)
+Rumus Excel,S4 layout 1 berubah (Jun),1,17.0,rumus unik + 6 parameter,0.954702002999511,0.985,0.9055555555555556,1.0,sel parameter,,,diukur,"tanpa perubahan, sel Catatan/Paraf terbaca sebagai tanggal dan 2 tanggal terakhir hilang tanpa peringatan"
+SQL (DuckDB),S4 layout 1 berubah (Jun),1,18.0,baris SQL,1.0641004319995773,0.985,0.985,0.0,tidak perlu perubahan,,,diukur,tanpa perubahan tetap benar: tanggal dibaca dari header tiap kolom dan kolom Catatan/Paraf tidak punya nilai
+Python (parser),S4 layout 1 berubah (Jun),1,17.0,baris config,0.0686413980001816,0.9922222222222222,0.0,2.0,baris config (file baru L1_v2.yaml),,,diukur,"dengan config lama: berhenti (UnknownTemplate), tidak menulis angka salah"
+Power Query,S4 layout 1 berubah (Jun),1,25.0,baris M,,,,1.0,nilai parameter,,,tidak dijalankan,perubahan: nilai Param_FirstValueCol

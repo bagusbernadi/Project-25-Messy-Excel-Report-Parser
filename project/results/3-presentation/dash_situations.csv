@@ -1,0 +1,5 @@
+situation,recommended_method,reason,basis
+"End user di lini produksi, satu atau dua file, tanpa programmer",Rumus Excel,Tanpa instalasi; perubahan layout cukup mengubah satu sel parameter; waktu proses sekitar satu detik per file,diukur
+Tim non-programmer yang rutin mengolah banyak file satu layout,Power Query,Refresh dari folder tanpa menulis kode; perubahan layout lewat parameter. Belum diuji karena Excel tidak tersedia,penilaian (belum dijalankan)
+Banyak file dengan banyak layout dan perlu bukti kebenaran,Python (parser),"Pilih template otomatis, rekonsiliasi dengan subtotal, pemulihan dan penandaan sel; berhenti bila layout tak dikenal",diukur
+Data sudah berupa tabel di database,SQL (DuckDB),"Sekali tabel sel termuat, query bisa diulang dan diaudit; tidak membaca .xlsx langsung",diukur

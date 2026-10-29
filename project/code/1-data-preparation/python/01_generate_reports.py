@@ -4,7 +4,7 @@ Data rapi (truth, 27.000 baris = 150 hari x 2 shift x 3 slot x 10 stasiun x 3 uk
 6 kelompok stasiun (6 template layout berbeda) x 6 bulan (blok 25 hari kerja). Fakta tertanam: 6 jenis layout,
 perubahan layout di bulan ke-4 (layout 1 dan 3), 2 subtotal salah ketik (layout 2), 1 sheet ganda (layout 1 bulan 3),
 dan +-2,5% sel angka kotor. Hasil (data/sim/): reports/*.xlsx, truth_fact_output_tidy.csv, ground_truth_dirty_cells.csv,
-ground_truth.json. Jalankan: python scripts/generate_reports.py   (versi data: v1; butuh openpyxl)
+ground_truth.json. Jalankan: python project/code/1-data-preparation/python/01_generate_reports.py   (versi data: v1; butuh openpyxl)
 """
 import io
 import json
@@ -17,7 +17,7 @@ import pandas as pd
 from openpyxl import Workbook
 from openpyxl.utils import get_column_letter as L
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[3]                          # folder project/
 OUT = ROOT / "data" / "sim"
 SEED = 25260302
 DATA_VERSION = "v1"

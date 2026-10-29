@@ -1,0 +1,448 @@
+source_file,sheet,block,metric,kind,report_cell,report_total,parsed_total,diff,status,parsed_total_final,diff_final,status_final,resolution
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-02|PRODUKSI,produced,subtotal,E43,91167,89885,-1282,selisih,91167,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-02|REJECT,reject,subtotal,E84,447,582,135,selisih,447,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-04|PRODUKSI,produced,subtotal,G43,90539,102464,11925,selisih,90539,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-04|REJECT,reject,subtotal,G84,446,518,72,selisih,446,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-05|PRODUKSI,produced,subtotal,H43,89977,87210,-2767,selisih,89977,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-05|REJECT,reject,subtotal,H84,466,556,90,selisih,556,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-09|REJECT,reject,subtotal,J84,493,462,-31,selisih,462,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-10|PRODUKSI,produced,subtotal,K43,89798,88243,-1555,selisih,89798,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-11|PRODUKSI,produced,subtotal,L43,91157,88437,-2720,selisih,91157,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-11|REJECT,reject,subtotal,L84,463,444,-19,selisih,463,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-12|PRODUKSI,produced,subtotal,M43,90784,87912,-2872,selisih,90784,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-12|REJECT,reject,subtotal,M84,443,551,108,selisih,443,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-13|REJECT,reject,subtotal,N84,465,457,-8,selisih,465,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-16|PRODUKSI,produced,subtotal,O43,87437,81181,-6256,selisih,81181,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-17|REJECT,reject,subtotal,P84,418,405,-13,selisih,418,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-18|PRODUKSI,produced,subtotal,Q43,92322,88942,-3380,selisih,92322,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-18|REJECT,reject,subtotal,Q84,494,493,-1,selisih,494,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-24|PRODUKSI,produced,subtotal,U43,90367,102847,12480,selisih,102847,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-27|PRODUKSI,produced,subtotal,X43,90839,116174,25335,selisih,90839,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-03-31|REJECT,reject,subtotal,Z84,434,425,-9,selisih,434,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-04-01|PRODUKSI,produced,subtotal,AA43,89188,86758,-2430,selisih,89188,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-04-02|REJECT,reject,subtotal,AB84,440,602,162,selisih,440,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-03.xlsx,Sheet1,2026-04-03|REJECT,reject,subtotal,AC84,455,536,81,selisih,455,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-06|REJECT,reject,subtotal,E84,468,477,9,selisih,477,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-07|PRODUKSI,produced,subtotal,F43,90540,131319,40779,selisih,131319,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-08|PRODUKSI,produced,subtotal,G43,89884,86710,-3174,selisih,86710,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-08|REJECT,reject,subtotal,G84,404,380,-24,selisih,380,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-10|REJECT,reject,subtotal,I84,482,761,279,selisih,761,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-13|PRODUKSI,produced,subtotal,J43,90116,103643,13527,selisih,90116,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-14|PRODUKSI,produced,subtotal,K43,90093,86634,-3459,selisih,90093,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-15|REJECT,reject,subtotal,L84,436,422,-14,selisih,436,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-16|REJECT,reject,subtotal,M84,492,480,-12,selisih,492,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-17|REJECT,reject,subtotal,N84,459,455,-4,selisih,459,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-22|REJECT,reject,subtotal,Q84,470,455,-15,selisih,470,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-23|PRODUKSI,produced,subtotal,R43,89183,86312,-2871,selisih,89183,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-24|PRODUKSI,produced,subtotal,S43,90762,125466,34704,selisih,90762,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-24|REJECT,reject,subtotal,S84,426,414,-12,selisih,426,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-27|PRODUKSI,produced,subtotal,T43,92306,89193,-3113,selisih,92306,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-04-30|PRODUKSI,produced,subtotal,W43,89086,103243,14157,selisih,89086,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-05-04|PRODUKSI,produced,subtotal,Y43,90136,87754,-2382,selisih,90136,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-05-06|PRODUKSI,produced,subtotal,AA43,88407,116037,27630,selisih,88407,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-05-06|REJECT,reject,subtotal,AA84,459,437,-22,selisih,437,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-04.xlsx,Sheet1,2026-05-07|REJECT,reject,subtotal,AB84,455,446,-9,selisih,455,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-04.xlsx,Sheet1,2026-05-08|PRODUKSI,produced,subtotal,AC43,88388,85055,-3333,selisih,88388,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-11|PRODUKSI,produced,subtotal,E43,90188,86958,-3230,selisih,90188,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-12|PRODUKSI,produced,subtotal,F43,90278,101353,11075,selisih,101353,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-13|PRODUKSI,produced,subtotal,G43,89830,86919,-2911,selisih,89830,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-14|REJECT,reject,subtotal,H84,410,536,126,selisih,410,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-15|REJECT,reject,subtotal,I84,468,465,-3,selisih,468,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-18|PRODUKSI,produced,subtotal,J43,91016,116441,25425,selisih,91016,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-19|PRODUKSI,produced,subtotal,K43,89725,86747,-2978,selisih,89725,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-20|REJECT,reject,subtotal,L84,475,453,-22,selisih,475,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-21|PRODUKSI,produced,subtotal,M43,89568,118143,28575,selisih,89568,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-22|REJECT,reject,subtotal,N84,472,552,80,selisih,552,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-25|PRODUKSI,produced,subtotal,O43,90944,106514,15570,selisih,90944,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-26|REJECT,reject,subtotal,P84,411,510,99,selisih,411,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-27|PRODUKSI,produced,subtotal,Q43,90645,87313,-3332,selisih,90645,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-05-27|REJECT,reject,subtotal,Q84,428,420,-8,selisih,428,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-01|REJECT,reject,subtotal,T84,461,437,-24,selisih,461,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-02|REJECT,reject,subtotal,U84,432,419,-13,selisih,432,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-04|REJECT,reject,subtotal,W84,399,372,-27,selisih,372,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-08|REJECT,reject,subtotal,Y84,459,445,-14,selisih,459,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-09|PRODUKSI,produced,subtotal,Z43,90523,85947,-4576,selisih,85947,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-10|PRODUKSI,produced,subtotal,AA43,90358,104884,14526,selisih,90358,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-10|REJECT,reject,subtotal,AA84,437,463,26,selisih,463,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-05.xlsx,Sheet1,2026-06-12|REJECT,reject,subtotal,AC84,455,450,-5,selisih,455,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-15|REJECT,reject,subtotal,G86,435,867,432,selisih,867,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-16|REJECT,reject,subtotal,H86,452,437,-15,selisih,452,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-17|PRODUKSI,produced,subtotal,I45,90955,119290,28335,selisih,119290,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-18|PRODUKSI,produced,subtotal,J45,89755,87305,-2450,selisih,89755,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-19|PRODUKSI,produced,subtotal,K45,90428,88987,-1441,selisih,90428,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-22|REJECT,reject,subtotal,L86,450,493,43,selisih,493,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-23|PRODUKSI,produced,subtotal,M45,89512,87125,-2387,selisih,89512,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-25|PRODUKSI,produced,subtotal,O45,89280,87765,-1515,selisih,89280,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-26|PRODUKSI,produced,subtotal,P45,92115,119250,27135,selisih,119250,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-26|REJECT,reject,subtotal,P86,432,416,-16,selisih,432,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-06-30|REJECT,reject,subtotal,R86,450,430,-20,selisih,430,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-02|REJECT,reject,subtotal,T86,459,449,-10,selisih,459,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-03|PRODUKSI,produced,subtotal,U45,90947,105653,14706,selisih,90947,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-06|REJECT,reject,subtotal,V86,473,645,172,selisih,645,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-07|REJECT,reject,subtotal,W86,448,496,48,selisih,496,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-08|PRODUKSI,produced,subtotal,X45,89320,102793,13473,selisih,89320,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-10|PRODUKSI,produced,subtotal,Z45,89817,86731,-3086,selisih,89817,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-13|PRODUKSI,produced,subtotal,AA45,89544,88072,-1472,selisih,89544,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-14|PRODUKSI,produced,subtotal,AB45,90788,89275,-1513,selisih,90788,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-06.xlsx,Sheet1,2026-07-16|PRODUKSI,produced,subtotal,AD45,89186,87734,-1452,selisih,89186,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-20|REJECT,reject,subtotal,G86,443,436,-7,selisih,443,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-21|REJECT,reject,subtotal,H86,445,706,261,selisih,706,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-23|REJECT,reject,subtotal,J86,452,440,-12,selisih,452,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-24|REJECT,reject,subtotal,K86,450,495,45,selisih,450,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-27|REJECT,reject,subtotal,L86,442,793,351,selisih,793,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-29|REJECT,reject,subtotal,N86,443,614,171,selisih,443,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-30|REJECT,reject,subtotal,O86,472,463,-9,selisih,472,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-07-31|PRODUKSI,produced,subtotal,P45,89770,97218,7448,selisih,97218,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-03|PRODUKSI,produced,subtotal,Q45,88695,85634,-3061,selisih,88695,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-04|REJECT,reject,subtotal,R86,452,446,-6,selisih,452,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-06|REJECT,reject,subtotal,T86,464,428,-36,selisih,428,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-10|REJECT,reject,subtotal,V86,467,463,-4,selisih,467,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-11|PRODUKSI,produced,subtotal,W45,92397,91055,-1342,selisih,92397,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-11|REJECT,reject,subtotal,W86,483,582,99,selisih,483,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-13|REJECT,reject,subtotal,Y86,466,460,-6,selisih,466,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-14|PRODUKSI,produced,subtotal,Z45,91287,88373,-2914,selisih,91287,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-14|REJECT,reject,subtotal,Z86,481,636,155,selisih,636,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-18|PRODUKSI,produced,subtotal,AB45,91634,88355,-3279,selisih,91634,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-20|REJECT,reject,subtotal,AD86,420,415,-5,selisih,420,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-07.xlsx,Sheet1,2026-08-21|PRODUKSI,produced,subtotal,AE45,88179,86671,-1508,selisih,88179,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-24|PRODUKSI,produced,subtotal,G45,88933,114349,25416,selisih,88933,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-24|REJECT,reject,subtotal,G86,465,456,-9,selisih,465,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-25|PRODUKSI,produced,subtotal,H45,87930,86530,-1400,selisih,87930,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-25|REJECT,reject,subtotal,H86,449,548,99,selisih,449,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-26|PRODUKSI,produced,subtotal,I45,90460,121012,30552,selisih,121012,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-27|REJECT,reject,subtotal,J86,474,456,-18,selisih,474,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-08-31|REJECT,reject,subtotal,L86,468,450,-18,selisih,468,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-01|PRODUKSI,produced,subtotal,M45,89683,88269,-1414,selisih,89683,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-02|PRODUKSI,produced,subtotal,N45,89792,86682,-3110,selisih,89792,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-03|REJECT,reject,subtotal,O86,471,453,-18,selisih,471,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-04|PRODUKSI,produced,subtotal,P45,89485,96309,6824,selisih,96309,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-07|REJECT,reject,subtotal,Q86,439,435,-4,selisih,439,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-08|PRODUKSI,produced,subtotal,R45,88894,115477,26583,selisih,115477,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-08|REJECT,reject,subtotal,R86,456,451,-5,selisih,456,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-09|PRODUKSI,produced,subtotal,S45,89887,88248,-1639,selisih,89887,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-09|REJECT,reject,subtotal,S86,453,597,144,selisih,453,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-11|REJECT,reject,subtotal,U86,446,420,-26,selisih,446,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-15|REJECT,reject,subtotal,W86,450,443,-7,selisih,450,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-18|REJECT,reject,subtotal,Z86,438,536,98,selisih,536,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-21|PRODUKSI,produced,subtotal,AA45,87548,108905,21357,selisih,87548,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G1_2026-08.xlsx,Sheet1,2026-09-21|REJECT,reject,subtotal,AA86,438,564,126,selisih,438,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-02|Shift 1|Rinsing|330 ml,produced,row_total,I7,9692,6860,-2832,selisih,9692,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-02|Shift 1|slot 2,produced,subtotal,E10,15049,12217,-2832,selisih,15049,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-02|Shift 1|total produksi,produced,subtotal,I10,45334,42502,-2832,selisih,45334,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-06|Shift 1|Rinsing|600 ml,produced,row_total,I92,8506,5471,-3035,selisih,8506,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-06|Shift 1|slot 1,produced,subtotal,C94,14763,11728,-3035,selisih,14763,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-06|Shift 1|total produksi,produced,subtotal,I94,44838,41803,-3035,selisih,44838,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-09|Shift 1|slot 1,reject,subtotal,D115,210,151,-59,selisih,210,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,"2026-03-10|Shift 1|Rinsing|1,5 L",produced,row_total,I135,4645,2912,-1733,selisih,4645,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-10|Shift 1|slot 2,produced,subtotal,E136,14840,13107,-1733,selisih,14840,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-10|Shift 1|total produksi,produced,subtotal,I136,45247,43514,-1733,selisih,45247,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-11|Shift 1|slot 1,reject,subtotal,D157,207,486,279,selisih,207,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|Rinsing|330 ml,produced,row_total,I175,10027,6746,-3281,selisih,10027,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|Rinsing|600 ml,produced,row_total,I176,8483,5526,-2957,selisih,8483,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|slot 1,produced,subtotal,C178,14798,11517,-3281,selisih,14798,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|slot 3,produced,subtotal,G178,16082,13125,-2957,selisih,16082,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|slot 3,reject,subtotal,H178,211,182,-29,selisih,211,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 1|total produksi,produced,subtotal,I178,45360,39122,-6238,selisih,45360,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-12|Shift 2|slot 1,reject,subtotal,D188,244,352,108,selisih,244,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-17|Shift 1|slot 1,reject,subtotal,D241,198,180,-18,selisih,198,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-18|Shift 1|Rinsing|600 ml,produced,row_total,I260,8216,2753,-5463,selisih,8216,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-18|Shift 1|slot 1,produced,subtotal,C262,14817,11961,-2856,selisih,14817,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-18|Shift 1|slot 2,reject,subtotal,F262,196,173,-23,selisih,196,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-18|Shift 1|slot 3,produced,subtotal,G262,16012,13405,-2607,selisih,16012,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-18|Shift 1|total produksi,produced,subtotal,I262,45776,40313,-5463,selisih,45776,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-20|Shift 1|Blow Molding|330 ml,produced,row_total,I298,9497,6239,-3258,selisih,9497,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-20|Shift 1|slot 2,produced,subtotal,E304,14904,11646,-3258,selisih,14904,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-20|Shift 1|total produksi,produced,subtotal,I304,45008,41750,-3258,selisih,45008,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-24|Shift 2|slot 2,reject,subtotal,F356,216,441,225,selisih,216,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,"2026-03-25|Shift 2|Blow Molding|1,5 L",produced,row_total,I373,4304,2933,-1371,selisih,4304,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-25|Shift 2|slot 3,produced,subtotal,G377,14973,13602,-1371,selisih,14973,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-25|Shift 2|total produksi,produced,subtotal,I377,45784,44413,-1371,selisih,45784,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,"2026-03-26|Shift 1|Blow Molding|1,5 L",produced,row_total,I384,4531,2934,-1597,selisih,4531,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-26|Shift 1|slot 2,produced,subtotal,E388,15272,13675,-1597,selisih,15272,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-26|Shift 1|total produksi,produced,subtotal,I388,44799,43202,-1597,selisih,44799,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-26|Shift 2|Rinsing|330 ml,produced,row_total,I395,9301,35428,26127,selisih,9301,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-03-26|Shift 2|slot 2,produced,subtotal,E398,15302,41429,26127,selisih,15302,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-26|Shift 2|total produksi,produced,subtotal,I398,45836,71963,26127,selisih,45836,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-03-30|Shift 2|slot 1,reject,subtotal,D440,195,138,-57,selisih,138,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 1|Blow Molding|600 ml,produced,row_total,I509,8016,31065,23049,selisih,8016,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,"2026-04-03|Shift 1|Rinsing|1,5 L",produced,row_total,I513,4503,3210,-1293,selisih,4503,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 1|Rinsing|330 ml,produced,row_total,I511,9077,32747,23670,selisih,9077,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 1|slot 1,produced,subtotal,C514,14596,36973,22377,selisih,14596,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 1|slot 3,produced,subtotal,G514,15209,38258,23049,selisih,15209,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 1|total produksi,produced,subtotal,I514,44810,90236,45426,selisih,44810,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,"2026-04-03|Shift 2|Blow Molding|1,5 L",produced,row_total,I520,4210,16351,12141,selisih,4210,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 2|Blow Molding|600 ml,produced,row_total,I519,8967,5870,-3097,selisih,8967,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,"2026-04-03|Shift 2|Rinsing|1,5 L",produced,row_total,I523,4437,17865,13428,selisih,4437,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 2|slot 1,produced,subtotal,C524,15427,25758,10331,selisih,15427,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 2|slot 2,produced,subtotal,E524,15287,27428,12141,selisih,15287,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 2|slot 3,reject,subtotal,H524,199,658,459,selisih,199,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-03.xlsx,Laporan,2026-04-03|Shift 2|total produksi,produced,subtotal,I524,45165,67637,22472,selisih,45165,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-09|Shift 1|Rinsing|330 ml,produced,row_total,I70,8996,6101,-2895,selisih,8996,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-09|Shift 1|slot 2,produced,subtotal,E73,14846,11951,-2895,selisih,14846,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-09|Shift 1|total produksi,produced,subtotal,I73,44522,41627,-2895,selisih,44522,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,"2026-04-10|Shift 1|Rinsing|1,5 L",produced,row_total,I93,4359,17805,13446,selisih,4359,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-10|Shift 1|slot 1,produced,subtotal,C94,15211,28657,13446,selisih,15211,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-10|Shift 1|total produksi,produced,subtotal,I94,46403,59849,13446,selisih,46403,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-10|Shift 2|slot 2,reject,subtotal,F104,230,159,-71,selisih,230,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-13|Shift 1|slot 1,reject,subtotal,D115,207,747,540,selisih,207,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-13|Shift 2|Blow Molding|600 ml,produced,row_total,I120,8348,31307,22959,selisih,8348,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-13|Shift 2|slot 1,produced,subtotal,C125,14853,37812,22959,selisih,14853,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-13|Shift 2|total produksi,produced,subtotal,I125,44078,67037,22959,selisih,44078,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-17|Shift 2|slot 2,reject,subtotal,F209,191,144,-47,selisih,191,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-20|Shift 1|slot 3,reject,subtotal,H220,210,148,-62,selisih,210,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,"2026-04-23|Shift 1|Blow Molding|1,5 L",produced,row_total,I279,4523,18284,13761,selisih,4523,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-23|Shift 1|slot 2,produced,subtotal,E283,15326,29087,13761,selisih,15326,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-23|Shift 1|slot 2,reject,subtotal,F283,216,155,-61,selisih,216,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-23|Shift 1|total produksi,produced,subtotal,I283,45645,59406,13761,selisih,45645,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-24|Shift 1|slot 2,reject,subtotal,F304,220,508,288,selisih,220,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-27|Shift 2|slot 3,reject,subtotal,H335,222,188,-34,selisih,222,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,"2026-04-28|Shift 1|Blow Molding|1,5 L",produced,row_total,I342,4724,3238,-1486,selisih,4724,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-28|Shift 1|Rinsing|330 ml,produced,row_total,I343,9140,5959,-3181,selisih,9140,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-28|Shift 1|slot 1,produced,subtotal,C346,15026,11845,-3181,selisih,15026,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-28|Shift 1|slot 1,reject,subtotal,D346,197,305,108,selisih,197,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-28|Shift 1|slot 3,produced,subtotal,G346,15010,13524,-1486,selisih,15010,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-28|Shift 1|total produksi,produced,subtotal,I346,45253,40586,-4667,selisih,45253,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-29|Shift 1|Blow Molding|600 ml,produced,row_total,I362,8513,5488,-3025,selisih,8513,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-29|Shift 1|slot 1,produced,subtotal,C367,15122,12097,-3025,selisih,15122,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-29|Shift 1|total produksi,produced,subtotal,I367,45224,42199,-3025,selisih,45224,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 1|Rinsing|600 ml,produced,row_total,I386,8580,5817,-2763,selisih,8580,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 1|slot 3,produced,subtotal,G388,15093,12330,-2763,selisih,15093,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 1|total produksi,produced,subtotal,I388,45254,42491,-2763,selisih,45254,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 2|Rinsing|600 ml,produced,row_total,I396,8390,33509,25119,selisih,8390,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 2|slot 1,produced,subtotal,C398,14414,39533,25119,selisih,14414,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 2|slot 3,reject,subtotal,H398,207,143,-64,selisih,207,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-04-30|Shift 2|total produksi,produced,subtotal,I398,43469,68588,25119,selisih,43469,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-01|Shift 2|Blow Molding|600 ml,produced,row_total,I414,7927,31399,23472,selisih,7927,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,"2026-05-01|Shift 2|Rinsing|1,5 L",produced,row_total,I418,4356,2790,-1566,selisih,4356,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-01|Shift 2|slot 1,produced,subtotal,C419,15213,13647,-1566,selisih,15213,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-01|Shift 2|slot 1,reject,subtotal,D419,218,515,297,selisih,218,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-01|Shift 2|slot 2,produced,subtotal,E419,14706,38178,23472,selisih,14706,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-01|Shift 2|total produksi,produced,subtotal,I419,44775,66681,21906,selisih,44775,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-04|Shift 2|Blow Molding|330 ml,produced,row_total,I434,8926,5941,-2985,selisih,8926,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-04|Shift 2|slot 1,produced,subtotal,C440,14606,11621,-2985,selisih,14606,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-04|Shift 2|total produksi,produced,subtotal,I440,44374,41389,-2985,selisih,44374,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 1|Blow Molding|330 ml,produced,row_total,I466,9492,3304,-6188,selisih,9492,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 1|slot 1,produced,subtotal,C472,14968,11677,-3291,selisih,14968,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 1|slot 2,produced,subtotal,E472,13682,10785,-2897,selisih,13682,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 1|total produksi,produced,subtotal,I472,43438,37250,-6188,selisih,43438,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,"2026-05-06|Shift 2|Blow Molding|1,5 L",produced,row_total,I478,4671,3153,-1518,selisih,4671,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 2|slot 3,produced,subtotal,G482,15126,13608,-1518,selisih,15126,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-06|Shift 2|total produksi,produced,subtotal,I482,45112,43594,-1518,selisih,45112,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-07|Shift 2|slot 3,reject,subtotal,H503,287,197,-90,selisih,197,-90.0,selisih,selisih: subtotal dicurigai
+laporan_G2_2026-04.xlsx,Laporan,2026-05-08|Shift 2|Blow Molding|600 ml,produced,row_total,I519,8778,5905,-2873,selisih,8778,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-08|Shift 2|Rinsing|330 ml,produced,row_total,I521,9002,5729,-3273,selisih,9002,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-04.xlsx,Laporan,2026-05-08|Shift 2|slot 1,produced,subtotal,C524,15241,12368,-2873,selisih,15241,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-08|Shift 2|slot 3,produced,subtotal,G524,15071,11798,-3273,selisih,15071,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-04.xlsx,Laporan,2026-05-08|Shift 2|total produksi,produced,subtotal,I524,45176,39030,-6146,selisih,45176,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-11|Shift 2|Blow Molding|330 ml,produced,row_total,I14,9155,6095,-3060,selisih,9155,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,"2026-05-11|Shift 2|Rinsing|1,5 L",produced,row_total,I19,4330,2901,-1429,selisih,4330,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-11|Shift 2|slot 2,produced,subtotal,E20,14634,13205,-1429,selisih,14634,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-11|Shift 2|slot 3,produced,subtotal,G20,15264,12204,-3060,selisih,15264,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-11|Shift 2|total produksi,produced,subtotal,I20,44860,40371,-4489,selisih,44860,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-12|Shift 2|slot 3,reject,subtotal,H41,194,139,-55,selisih,194,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-13|Shift 1|slot 3,reject,subtotal,H52,193,168,-25,selisih,193,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,"2026-05-15|Shift 2|Blow Molding|1,5 L",produced,row_total,I100,4626,3026,-1600,selisih,4626,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-15|Shift 2|Blow Molding|600 ml,produced,row_total,I99,9509,35340,25831,selisih,9509,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-15|Shift 2|slot 2,produced,subtotal,E104,15573,42953,27380,selisih,15573,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-15|Shift 2|slot 2,reject,subtotal,F104,241,448,207,selisih,241,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-15|Shift 2|slot 3,produced,subtotal,G104,14894,11745,-3149,selisih,14894,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-15|Shift 2|total produksi,produced,subtotal,I104,45751,69982,24231,selisih,45751,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,"2026-05-18|Shift 1|Rinsing|1,5 L",produced,row_total,I114,4235,2912,-1323,selisih,4235,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-18|Shift 1|slot 2,reject,subtotal,F115,224,872,648,selisih,224,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-18|Shift 1|slot 3,produced,subtotal,G115,14874,13551,-1323,selisih,14874,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-18|Shift 1|total produksi,produced,subtotal,I115,44244,42921,-1323,selisih,44244,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-19|Shift 1|slot 2,reject,subtotal,F136,237,212,-25,selisih,237,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,"2026-05-19|Shift 2|Rinsing|1,5 L",produced,row_total,I145,4051,2770,-1281,selisih,4051,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-19|Shift 2|slot 2,produced,subtotal,E146,15888,14607,-1281,selisih,15888,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-19|Shift 2|total produksi,produced,subtotal,I146,46672,45391,-1281,selisih,46672,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-20|Shift 1|slot 2,reject,subtotal,F157,205,163,-42,selisih,163,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G2_2026-05.xlsx,Laporan,2026-05-22|Shift 2|Blow Molding|600 ml,produced,row_total,I204,8947,6240,-2707,selisih,8947,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-22|Shift 2|slot 2,produced,subtotal,E209,15212,12505,-2707,selisih,15212,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-22|Shift 2|total produksi,produced,subtotal,I209,45328,42621,-2707,selisih,45328,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-25|Shift 1|slot 1,reject,subtotal,D220,212,162,-50,selisih,212,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,"2026-05-26|Shift 1|Blow Molding|1,5 L",produced,row_total,I237,4526,3101,-1425,selisih,4526,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-26|Shift 1|slot 1,produced,subtotal,C241,14503,13078,-1425,selisih,14503,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-26|Shift 1|total produksi,produced,subtotal,I241,45547,44122,-1425,selisih,45547,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-27|Shift 1|slot 2,reject,subtotal,F262,205,484,279,selisih,205,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-27|Shift 2|slot 1,reject,subtotal,D272,225,174,-51,selisih,225,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-28|Shift 2|Rinsing|330 ml,produced,row_total,I290,9786,40116,30330,selisih,9786,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-28|Shift 2|slot 2,produced,subtotal,E293,15532,45862,30330,selisih,15532,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-28|Shift 2|total produksi,produced,subtotal,I293,45613,75943,30330,selisih,45613,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-29|Shift 2|Blow Molding|330 ml,produced,row_total,I308,9829,6525,-3304,selisih,9829,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-29|Shift 2|slot 1,produced,subtotal,C314,15032,11728,-3304,selisih,15032,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-05-29|Shift 2|slot 3,reject,subtotal,H314,215,827,612,selisih,215,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-05-29|Shift 2|total produksi,produced,subtotal,I314,45825,42521,-3304,selisih,45825,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-01|Shift 2|Blow Molding|330 ml,produced,row_total,I329,9460,6011,-3449,selisih,9460,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-06-01|Shift 2|slot 1,produced,subtotal,C335,15193,11744,-3449,selisih,15193,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-01|Shift 2|slot 1,reject,subtotal,D335,257,923,666,selisih,257,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-06-01|Shift 2|total produksi,produced,subtotal,I335,44828,41379,-3449,selisih,44828,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-04|Shift 2|Blow Molding|330 ml,produced,row_total,I392,10129,6607,-3522,selisih,10129,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-06-04|Shift 2|slot 3,produced,subtotal,G398,15228,11706,-3522,selisih,15228,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-04|Shift 2|slot 3,reject,subtotal,H398,217,325,108,selisih,217,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-06-04|Shift 2|total produksi,produced,subtotal,I398,45440,41918,-3522,selisih,45440,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-10|Shift 1|Rinsing|600 ml,produced,row_total,I470,8681,32369,23688,selisih,8681,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-05.xlsx,Laporan,2026-06-10|Shift 1|slot 1,produced,subtotal,C472,14652,38340,23688,selisih,14652,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-05.xlsx,Laporan,2026-06-10|Shift 1|total produksi,produced,subtotal,I472,44839,68527,23688,selisih,44839,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-16|Shift 2|slot 3,reject,subtotal,H41,216,151,-65,selisih,216,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,"2026-06-17|Shift 1|Blow Molding|1,5 L",produced,row_total,I48,4693,19156,14463,selisih,4693,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,"2026-06-17|Shift 1|Rinsing|1,5 L",produced,row_total,I51,4444,2940,-1504,selisih,4444,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-06-17|Shift 1|slot 1,produced,subtotal,C52,15328,13824,-1504,selisih,15328,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-17|Shift 1|slot 2,produced,subtotal,E52,15350,29813,14463,selisih,15350,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-17|Shift 1|total produksi,produced,subtotal,I52,44700,57659,12959,selisih,44700,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-18|Shift 2|slot 1,reject,subtotal,D83,196,170,-26,selisih,196,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-06-19|Shift 2|slot 3,reject,subtotal,H104,210,426,216,selisih,210,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,"2026-06-26|Shift 2|Blow Molding|1,5 L",produced,row_total,I205,4752,18810,14058,selisih,4752,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-06-26|Shift 2|slot 1,produced,subtotal,C209,14836,28894,14058,selisih,14836,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-26|Shift 2|slot 1,reject,subtotal,D209,202,132,-70,selisih,202,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-06-26|Shift 2|total produksi,produced,subtotal,I209,45174,59232,14058,selisih,45174,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-30|Shift 2|Blow Molding|330 ml,produced,row_total,I245,9542,38324,28782,selisih,9542,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-06-30|Shift 2|slot 3,produced,subtotal,G251,14322,43104,28782,selisih,14322,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-06-30|Shift 2|total produksi,produced,subtotal,I251,43483,72265,28782,selisih,43483,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,"2026-07-01|Shift 2|Blow Molding|1,5 L",produced,row_total,I268,4485,17895,13410,selisih,4485,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-01|Shift 2|slot 3,produced,subtotal,G272,15687,29097,13410,selisih,15687,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-01|Shift 2|slot 3,reject,subtotal,H272,200,193,-7,selisih,200,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-01|Shift 2|total produksi,produced,subtotal,I272,45014,58424,13410,selisih,45014,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-02|Shift 1|Blow Molding|600 ml,produced,row_total,I278,8008,5405,-2603,selisih,8008,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-02|Shift 1|slot 2,produced,subtotal,E283,15120,12517,-2603,selisih,15120,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-02|Shift 1|total produksi,produced,subtotal,I283,44280,41677,-2603,selisih,44280,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-03|Shift 1|Blow Molding|330 ml,produced,row_total,I298,8814,5955,-2859,selisih,8814,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-03|Shift 1|slot 1,produced,subtotal,C304,14701,11842,-2859,selisih,14701,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-03|Shift 1|total produksi,produced,subtotal,I304,45103,42244,-2859,selisih,45103,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-06|Shift 1|Rinsing|600 ml,produced,row_total,I323,8095,30613,22518,selisih,8095,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-06|Shift 1|slot 3,produced,subtotal,G325,14181,36699,22518,selisih,14181,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-06|Shift 1|total produksi,produced,subtotal,I325,44701,67219,22518,selisih,44701,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-06|Shift 2|slot 3,reject,subtotal,H335,206,184,-22,selisih,206,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-07|Shift 1|Rinsing|600 ml,produced,row_total,I344,8681,6045,-2636,selisih,8681,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-07|Shift 1|slot 3,produced,subtotal,G346,14690,12054,-2636,selisih,14690,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-07|Shift 1|total produksi,produced,subtotal,I346,45369,42733,-2636,selisih,45369,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-07|Shift 2|slot 1,reject,subtotal,D356,229,147,-82,selisih,229,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 1|Rinsing|600 ml,produced,row_total,I365,8350,5819,-2531,selisih,8350,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 1|slot 1,produced,subtotal,C367,14751,12220,-2531,selisih,14751,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 1|total produksi,produced,subtotal,I367,45607,43076,-2531,selisih,45607,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 2|Rinsing|330 ml,produced,row_total,I374,10050,6701,-3349,selisih,10050,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 2|slot 1,produced,subtotal,C377,14843,11494,-3349,selisih,14843,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-08|Shift 2|total produksi,produced,subtotal,I377,45154,41805,-3349,selisih,45154,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-09|Shift 2|slot 2,reject,subtotal,F398,216,459,243,selisih,216,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-13|Shift 1|slot 2,reject,subtotal,F430,200,173,-27,selisih,200,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-14|Shift 1|slot 3,reject,subtotal,H451,231,205,-26,selisih,231,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,"2026-07-14|Shift 2|Rinsing|1,5 L",produced,row_total,I460,4509,17883,13374,selisih,4509,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-14|Shift 2|slot 3,produced,subtotal,G461,14792,28166,13374,selisih,14792,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-14|Shift 2|total produksi,produced,subtotal,I461,44733,58107,13374,selisih,44733,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-15|Shift 1|Blow Molding|600 ml,produced,row_total,I467,8486,5749,-2737,selisih,8486,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-15|Shift 1|slot 1,produced,subtotal,C472,14274,11537,-2737,selisih,14274,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-15|Shift 1|total produksi,produced,subtotal,I472,44619,41882,-2737,selisih,44619,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-15|Shift 2|slot 2,reject,subtotal,F482,235,208,-27,selisih,235,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-16|Shift 1|Blow Molding|330 ml,produced,row_total,I487,9723,40314,30591,selisih,9723,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-16|Shift 1|slot 1,produced,subtotal,C493,14924,45515,30591,selisih,14924,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-16|Shift 1|total produksi,produced,subtotal,I493,44811,75402,30591,selisih,44811,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-17|Shift 2|Blow Molding|330 ml,produced,row_total,I518,9593,6226,-3367,selisih,9593,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-17|Shift 2|slot 2,produced,subtotal,E524,15592,12225,-3367,selisih,15592,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-06.xlsx,Laporan,2026-07-17|Shift 2|slot 2,reject,subtotal,F524,199,179,-20,selisih,199,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-06.xlsx,Laporan,2026-07-17|Shift 2|total produksi,produced,subtotal,I524,45956,42589,-3367,selisih,45956,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-20|Shift 1|slot 1,reject,subtotal,D10,207,693,486,selisih,207,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 1|slot 1,reject,subtotal,D31,224,201,-23,selisih,224,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 2|Blow Molding|330 ml,produced,row_total,I35,9474,6268,-3206,selisih,9474,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 2|slot 1,reject,subtotal,D41,191,884,693,selisih,884,,selisih,selisih: sel bermasalah belum bisa dipastikan
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 2|slot 3,produced,subtotal,G41,15281,12075,-3206,selisih,15281,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 2|slot 3,reject,subtotal,H41,196,168,-28,selisih,196,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-21|Shift 2|total produksi,produced,subtotal,I41,44984,41778,-3206,selisih,44984,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,"2026-07-22|Shift 2|Blow Molding|1,5 L",produced,row_total,I58,4512,2946,-1566,selisih,4512,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-22|Shift 2|slot 2,produced,subtotal,E62,15092,13526,-1566,selisih,15092,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-22|Shift 2|total produksi,produced,subtotal,I62,44984,43418,-1566,selisih,44984,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-27|Shift 1|Rinsing|330 ml,produced,row_total,I112,9512,39428,29916,selisih,9512,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-27|Shift 1|slot 1,produced,subtotal,C115,14592,44508,29916,selisih,14592,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-27|Shift 1|total produksi,produced,subtotal,I115,44780,74696,29916,selisih,44780,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-29|Shift 2|slot 2,reject,subtotal,F167,220,162,-58,selisih,220,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-30|Shift 1|slot 1,reject,subtotal,D178,211,769,558,selisih,211,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-31|Shift 1|slot 1,reject,subtotal,D199,214,165,-49,selisih,214,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-31|Shift 2|Rinsing|600 ml,produced,row_total,I207,8292,5885,-2407,selisih,8292,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-07-31|Shift 2|slot 1,produced,subtotal,C209,14878,12471,-2407,selisih,14878,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-07-31|Shift 2|total produksi,produced,subtotal,I209,44215,41808,-2407,selisih,44215,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-03|Shift 1|slot 1,reject,subtotal,D220,223,189,-34,selisih,223,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-04|Shift 2|Rinsing|600 ml,produced,row_total,I249,8362,5516,-2846,selisih,8362,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-04|Shift 2|slot 2,produced,subtotal,E251,15475,12629,-2846,selisih,15475,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-04|Shift 2|total produksi,produced,subtotal,I251,45675,42829,-2846,selisih,45675,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-05|Shift 1|Rinsing|600 ml,produced,row_total,I260,8701,32857,24156,selisih,8701,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-05|Shift 1|slot 3,produced,subtotal,G262,15088,39244,24156,selisih,15088,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-05|Shift 1|total produksi,produced,subtotal,I262,45300,69456,24156,selisih,45300,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-06|Shift 2|Rinsing|330 ml,produced,row_total,I290,9807,6898,-2909,selisih,9807,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-06|Shift 2|slot 1,produced,subtotal,C293,14215,11306,-2909,selisih,14215,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-06|Shift 2|total produksi,produced,subtotal,I293,44634,41725,-2909,selisih,44634,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-10|Shift 1|slot 3,reject,subtotal,H325,197,181,-16,selisih,197,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-10|Shift 2|Rinsing|330 ml,produced,row_total,I332,9148,6120,-3028,selisih,9148,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-10|Shift 2|slot 2,produced,subtotal,E335,15219,12191,-3028,selisih,15219,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-10|Shift 2|total produksi,produced,subtotal,I335,44455,41427,-3028,selisih,44455,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-12|Shift 1|slot 2,reject,subtotal,F367,284,194,-90,selisih,194,-90.0,selisih,selisih: subtotal dicurigai
+laporan_G2_2026-07.xlsx,Laporan,2026-08-12|Shift 2|Rinsing|330 ml,produced,row_total,I374,9569,6311,-3258,selisih,9569,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-12|Shift 2|slot 2,produced,subtotal,E377,15048,11790,-3258,selisih,15048,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-12|Shift 2|total produksi,produced,subtotal,I377,44033,40775,-3258,selisih,44033,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-13|Shift 2|Blow Molding|600 ml,produced,row_total,I393,8735,34799,26064,selisih,8735,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-13|Shift 2|slot 3,produced,subtotal,G398,14963,41027,26064,selisih,14963,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-13|Shift 2|total produksi,produced,subtotal,I398,44128,70192,26064,selisih,44128,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-14|Shift 2|Rinsing|330 ml,produced,row_total,I416,9959,39173,29214,selisih,9959,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-14|Shift 2|slot 3,produced,subtotal,G419,15285,44499,29214,selisih,15285,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-14|Shift 2|total produksi,produced,subtotal,I419,44685,73899,29214,selisih,44685,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,"2026-08-17|Shift 1|Rinsing|1,5 L",produced,row_total,I429,4395,18183,13788,selisih,4395,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-17|Shift 1|slot 2,produced,subtotal,E430,15256,29044,13788,selisih,15256,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-17|Shift 1|total produksi,produced,subtotal,I430,45742,59530,13788,selisih,45742,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 1|slot 1,reject,subtotal,D451,225,162,-63,selisih,225,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 2|Rinsing|330 ml,produced,row_total,I458,9361,6209,-3152,selisih,9361,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 2|Rinsing|600 ml,produced,row_total,I459,8677,5642,-3035,selisih,8677,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 2|slot 2,produced,subtotal,E461,15057,12022,-3035,selisih,15057,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 2|slot 3,produced,subtotal,G461,14486,11334,-3152,selisih,14486,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-18|Shift 2|total produksi,produced,subtotal,I461,44220,38033,-6187,selisih,44220,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-07.xlsx,Laporan,2026-08-19|Shift 1|slot 1,reject,subtotal,D472,199,188,-11,selisih,199,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-07.xlsx,Laporan,2026-08-19|Shift 2|slot 2,reject,subtotal,F482,208,187,-21,selisih,208,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 1|Blow Molding|600 ml,produced,row_total,I5,9108,6117,-2991,selisih,9108,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 1|slot 2,produced,subtotal,E10,13951,10960,-2991,selisih,13951,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 1|slot 2,reject,subtotal,F10,183,327,144,selisih,183,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 1|total produksi,produced,subtotal,I10,44055,41064,-2991,selisih,44055,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 2|Rinsing|330 ml,produced,row_total,I17,9273,37047,27774,selisih,9273,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 2|slot 1,produced,subtotal,C20,14629,42403,27774,selisih,14629,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-08-24|Shift 2|total produksi,produced,subtotal,I20,44094,71868,27774,selisih,44094,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-08-25|Shift 2|slot 1,reject,subtotal,D41,193,445,252,selisih,193,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-08-28|Shift 1|slot 3,reject,subtotal,H94,181,370,189,selisih,181,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 1|Blow Molding|600 ml,produced,row_total,I131,8469,5967,-2502,selisih,8469,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 1|slot 2,produced,subtotal,E136,14409,11907,-2502,selisih,14409,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 1|total produksi,produced,subtotal,I136,45348,42846,-2502,selisih,45348,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 2|Blow Molding|330 ml,produced,row_total,I140,9897,6747,-3150,selisih,9897,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 2|slot 3,produced,subtotal,G146,15090,11940,-3150,selisih,15090,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 2|slot 3,reject,subtotal,H146,235,173,-62,selisih,235,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-01|Shift 2|total produksi,produced,subtotal,I146,45021,41871,-3150,selisih,45021,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-02|Shift 2|Blow Molding|1,5 L",produced,row_total,I163,4327,2788,-1539,selisih,4327,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-02|Shift 2|slot 3,produced,subtotal,G167,14456,12917,-1539,selisih,14456,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-02|Shift 2|total produksi,produced,subtotal,I167,45876,44337,-1539,selisih,45876,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-03|Shift 2|Blow Molding|600 ml,produced,row_total,I183,8535,5716,-2819,selisih,8535,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-03|Shift 2|slot 1,produced,subtotal,C188,14703,11884,-2819,selisih,14703,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-03|Shift 2|total produksi,produced,subtotal,I188,43929,41110,-2819,selisih,43929,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-04|Shift 1|Rinsing|1,5 L",produced,row_total,I198,4293,2745,-1548,selisih,4293,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-04|Shift 1|slot 3,produced,subtotal,G199,15197,13649,-1548,selisih,15197,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-04|Shift 1|total produksi,produced,subtotal,I199,45771,44223,-1548,selisih,45771,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-04|Shift 2|slot 1,reject,subtotal,D209,238,153,-85,selisih,238,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-09|Shift 1|slot 2,reject,subtotal,F262,188,377,189,selisih,188,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-09|Shift 1|slot 3,reject,subtotal,H262,206,201,-5,selisih,206,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-09|Shift 2|Rinsing|1,5 L",produced,row_total,I271,4154,2621,-1533,selisih,4154,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-09|Shift 2|Rinsing|330 ml,produced,row_total,I269,9898,36907,27009,selisih,9898,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-09|Shift 2|slot 2,produced,subtotal,E272,14813,40289,25476,selisih,14813,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-09|Shift 2|total produksi,produced,subtotal,I272,46691,72167,25476,selisih,46691,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-10|Shift 2|Blow Molding|1,5 L",produced,row_total,I289,4522,3134,-1388,selisih,4522,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-10|Shift 2|slot 1,produced,subtotal,C293,14266,12878,-1388,selisih,14266,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-10|Shift 2|total produksi,produced,subtotal,I293,44555,43167,-1388,selisih,44555,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-11|Shift 2|Rinsing|1,5 L",produced,row_total,I313,4974,3243,-1731,selisih,4974,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-11|Shift 2|slot 1,produced,subtotal,C314,14501,12770,-1731,selisih,14501,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-11|Shift 2|slot 2,reject,subtotal,F314,240,600,360,selisih,240,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-11|Shift 2|total produksi,produced,subtotal,I314,44880,43149,-1731,selisih,44880,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-14|Shift 2|Blow Molding|330 ml,produced,row_total,I329,9649,6504,-3145,selisih,9649,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-14|Shift 2|slot 3,produced,subtotal,G335,14958,11813,-3145,selisih,14958,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-14|Shift 2|total produksi,produced,subtotal,I335,45356,42211,-3145,selisih,45356,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-15|Shift 1|slot 3,reject,subtotal,H346,201,167,-34,selisih,201,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-16|Shift 2|slot 3,reject,subtotal,H377,208,550,342,selisih,208,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-18|Shift 1|Rinsing|600 ml,produced,row_total,I407,8083,5464,-2619,selisih,8083,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-18|Shift 1|slot 1,reject,subtotal,D409,224,194,-30,selisih,224,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-18|Shift 1|slot 2,produced,subtotal,E409,14904,12285,-2619,selisih,14904,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-18|Shift 1|slot 3,reject,subtotal,H409,215,449,234,selisih,215,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-18|Shift 1|total produksi,produced,subtotal,I409,44890,42271,-2619,selisih,44890,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-24|Shift 1|slot 1,reject,subtotal,D493,242,228,-14,selisih,242,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,"2026-09-25|Shift 1|Rinsing|1,5 L",produced,row_total,I513,4740,3252,-1488,selisih,4740,0.0,cocok,dipulihkan dari subtotal ini
+laporan_G2_2026-08.xlsx,Laporan,2026-09-25|Shift 1|slot 3,produced,subtotal,G514,15514,14026,-1488,selisih,15514,0.0,cocok,dipulihkan lewat subtotal lain
+laporan_G2_2026-08.xlsx,Laporan,2026-09-25|Shift 1|total produksi,produced,subtotal,I514,45372,43884,-1488,selisih,45372,0.0,cocok,dipulihkan lewat subtotal lain

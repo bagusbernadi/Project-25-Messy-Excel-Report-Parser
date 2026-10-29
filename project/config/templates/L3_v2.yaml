@@ -1,0 +1,17 @@
+id: L3_v2
+layout: 3
+description: Seperti L3_v1; nama sheet 'Wk1' (bulan ke-4)
+reader: wide_groups
+detect:
+  sheet_regex: '^Wk\d+$'
+  cells:
+    - {cell: A1, startswith: 'Output mingguan'}
+sheets: {include: '^Wk\d+$'}
+group_header_row: 3
+sub_header_row: 4
+first_data_row: 5
+key_columns: {A: date, B: shift, C: slot}
+first_value_col: D
+group_header: {split: ' - ', fields: [station, size]}
+sub_headers: {Prod: produced, Rej: reject}
+date_formats: ['%d/%m/%Y']

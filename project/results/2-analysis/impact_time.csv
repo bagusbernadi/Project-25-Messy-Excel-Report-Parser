@@ -1,0 +1,8 @@
+item,value,unit,basis
+Laporan per bulan,6.0,laporan,asumsi
+Menit copy-paste dan pengecekan per laporan,30.0,menit,asumsi
+Jam copy-paste per tahun,36.0,jam,"estimated, simulated"
+Waktu parser untuk 36 file,2.9430700249995425,detik,diukur
+Waktu parser untuk laporan satu bulan (6 file),0.4905116708332571,detik,diukur
+Jam parser per tahun,0.0016350389027775236,jam,diukur
+Jam dihemat per tahun,35.998364961097224,jam,"estimated, simulated"

@@ -1,0 +1,17 @@
+id: L4_v1
+layout: 4
+description: Shift 1 di kiri dan Shift 2 di kanan, kolom pemisah kosong
+reader: flat
+detect:
+  sheet_regex: '^Output$'
+  cells:
+    - {cell: A1, equals: Shift 1}
+    - {cell: H1, equals: Shift 2}
+sheets: {include: '^Output$'}
+header_row: 2
+first_data_row: 3
+blocks:
+  - {start_col: A, shift_cell: A1}
+  - {start_col: H, shift_cell: H1}
+columns: [date, slot, station, size, produced, reject]
+date_formats: ['%d/%m/%Y']

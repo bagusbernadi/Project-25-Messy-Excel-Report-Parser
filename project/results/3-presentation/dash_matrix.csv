@@ -1,0 +1,11 @@
+criterion,basis,excel_formula,sql,python_parser,power_query
+Waktu proses satu file (detik),diukur,0.9420278420002433,0.9452320609998424,0.07122279399936815,
+"Kecocokan dengan kunci jawaban, satu file (persen)",diukur,0.985,0.985,0.9955555555555555,
+Perubahan untuk layout bulan ke-4,diukur,1 sel parameter,tidak perlu (query tetap benar),2 baris config (file baru),1 nilai parameter (tidak diuji)
+Hasil bila layout berubah dan tidak ada yang diubah (persen sel benar),diukur,90.6%,98.5%,0.0%,tidak diuji
+Perilaku bila layout berubah tanpa perubahan,diukur,"hasil tetap keluar, 2 tanggal terakhir hilang tanpa peringatan",hasil tetap benar pada kasus ini,berhenti dengan pesan template tidak dikenal; tidak ada angka ditulis,tidak diuji
+Rekonsiliasi dengan subtotal laporan,diukur,tidak ada,tidak ada,ada (4.200 subtotal),tidak ada
+Pemulihan sel kotor lewat subtotal,diukur,tidak ada,tidak ada,ada (252 sel),tidak ada
+Jejak sel asal sampai alamat sel,penilaian,ada (baris dan kolom sumber),ada (nomor baris dan kolom),ada (sheet dan sel),ada (kolom Row)
+Banyak file sekaligus,penilaian,satu workbook per file,perlu loop di luar SQL,ya (pilih template otomatis),"ya (folder), template dipilih manual"
+Keahlian yang dibutuhkan,penilaian,"Excel (INDEX, MATCH)",SQL dan sedikit Python untuk memuat sel,Python dan YAML,Excel dan bahasa M (menu)

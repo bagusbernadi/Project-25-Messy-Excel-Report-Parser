@@ -1,0 +1,5 @@
+quality,cells,exact,exact_rate
+fixed,492,492,1.0
+flagged,161,0,0.0
+missing,319,0,0.0
+ok,53028,53028,1.0

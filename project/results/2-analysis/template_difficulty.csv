@@ -1,0 +1,7 @@
+layout,reader,config_files,config_lines,config_keys,cells,anomaly_rows,anomaly_per_1000_cells,unresolved_cells,unresolved_per_1000_cells
+1,date_columns,2,17,22,10800,217,20.09259259259259,66,6.111111111111112
+2,date_shift_groups,1,19,22,10800,218,20.185185185185183,6,0.5555555555555556
+3,wide_groups,2,17,21,10800,216,20.0,162,15.0
+4,flat,1,17,23,10800,216,20.0,162,15.0
+5,flat,1,17,24,5400,0,0.0,0,0.0
+6,wide_groups,1,19,22,5400,108,20.0,84,15.555555555555555

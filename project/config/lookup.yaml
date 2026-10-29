@@ -1,0 +1,24 @@
+# Kamus nama baku dan variasi penulisan yang dikenal parser (dipakai semua template).
+# Nama yang tidak ada di sini membuat parser berhenti dengan pesan jelas; parser tidak menebak.
+stations:
+  Water Treatment: [Water Treatment, Water treatment, WTP]
+  Mixing: [Mixing, Mixer]
+  Blow Molding: [Blow Molding, Blow]
+  Rinsing: [Rinsing, Rinser]
+  Filling: [Filling, Filler]
+  Capping: [Capping, Capper]
+  Labeling: [Labeling, Label]
+  Shrink Wrap: [Shrink Wrap, Shrink]
+  Cartoning: [Cartoning, Carton]
+  Palletizing: [Palletizing, Palet]
+sizes:
+  "330 ml": ["330 ml", "330ml", "330 ML", "0,33 L"]
+  "600 ml": ["600 ml", "600ml", "600 ML", "0,6 L"]
+  "1,5 L": ["1,5 L", "1.5L", "1500 ml", "1,5 Liter"]
+shifts:
+  Shift 1: [Shift 1, "1", I]
+  Shift 2: [Shift 2, "2", II]
+slot_by_time:
+  Shift 1: {"07:00-10:00": 1, "10:00-13:00": 2, "13:00-16:00": 3}
+  Shift 2: {"15:00-18:00": 1, "18:00-21:00": 2, "21:00-24:00": 3}
+months: {Jan: 1, Feb: 2, Mar: 3, Apr: 4, May: 5, Mei: 5, Jun: 6, Jul: 7, Aug: 8, Agu: 8, Sep: 9, Oct: 10, Okt: 10, Nov: 11, Dec: 12, Des: 12}

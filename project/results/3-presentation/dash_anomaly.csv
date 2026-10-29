@@ -1,0 +1,976 @@
+source_file,sheet,cell,template,issue_type,raw_value,action,fix_method,parsed_value
+laporan_G1_2026-03.xlsx,Sheet1,AA23,L1_v1,unit_text,1543 btl,fixed,strip_unit,1543.0
+laporan_G1_2026-03.xlsx,Sheet1,AA33,L1_v1,text_na,,fixed,subtotal,2430.0
+laporan_G1_2026-03.xlsx,Sheet1,AB48,L1_v1,outlier,180,fixed,subtotal,18.0
+laporan_G1_2026-03.xlsx,Sheet1,AC72,L1_v1,outlier,90,fixed,subtotal,9.0
+laporan_G1_2026-03.xlsx,Sheet1,E37,L1_v1,dash,-,fixed,subtotal,1282.0
+laporan_G1_2026-03.xlsx,Sheet1,E72,L1_v1,outlier,150,fixed,subtotal,15.0
+laporan_G1_2026-03.xlsx,Sheet1,G37,L1_v1,outlier,13250,fixed,subtotal,1325.0
+laporan_G1_2026-03.xlsx,Sheet1,G55,L1_v1,outlier,80,fixed,subtotal,8.0
+laporan_G1_2026-03.xlsx,Sheet1,G70,L1_v1,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G1_2026-03.xlsx,Sheet1,H14,L1_v1,dash,-,fixed,subtotal,2767.0
+laporan_G1_2026-03.xlsx,Sheet1,H48,L1_v1,dash,-,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,H53,L1_v1,unit_text,13 btl,fixed,strip_unit,13.0
+laporan_G1_2026-03.xlsx,Sheet1,H58,L1_v1,outlier,110,flagged,,110.0
+laporan_G1_2026-03.xlsx,Sheet1,I28,L1_v1,unit_text,3495 btl,fixed,strip_unit,3495.0
+laporan_G1_2026-03.xlsx,Sheet1,J58,L1_v1,dash,-,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,J68,L1_v1,text_na,,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,K23,L1_v1,text_na,,fixed,subtotal,1555.0
+laporan_G1_2026-03.xlsx,Sheet1,L32,L1_v1,text_na,,fixed,subtotal,2720.0
+laporan_G1_2026-03.xlsx,Sheet1,L69,L1_v1,dash,-,fixed,subtotal,19.0
+laporan_G1_2026-03.xlsx,Sheet1,M35,L1_v1,dash,-,fixed,subtotal,2872.0
+laporan_G1_2026-03.xlsx,Sheet1,M50,L1_v1,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G1_2026-03.xlsx,Sheet1,M58,L1_v1,outlier,120,fixed,subtotal,12.0
+laporan_G1_2026-03.xlsx,Sheet1,N57,L1_v1,text_na,,fixed,subtotal,8.0
+laporan_G1_2026-03.xlsx,Sheet1,O12,L1_v1,dash,-,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,O25,L1_v1,text_na,,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,P56,L1_v1,dash,-,fixed,subtotal,13.0
+laporan_G1_2026-03.xlsx,Sheet1,Q30,L1_v1,text_na,,fixed,subtotal,3380.0
+laporan_G1_2026-03.xlsx,Sheet1,Q64,L1_v1,dash,-,fixed,subtotal,1.0
+laporan_G1_2026-03.xlsx,Sheet1,Q69,L1_v1,unit_text,18 btl,fixed,strip_unit,18.0
+laporan_G1_2026-03.xlsx,Sheet1,S39,L1_v1,unit_text,1508 btl,fixed,strip_unit,1508.0
+laporan_G1_2026-03.xlsx,Sheet1,U37,L1_v1,outlier,15340,flagged,,15340.0
+laporan_G1_2026-03.xlsx,Sheet1,U39,L1_v1,text_na,,flagged,,
+laporan_G1_2026-03.xlsx,Sheet1,X28,L1_v1,outlier,28150,fixed,subtotal,2815.0
+laporan_G1_2026-03.xlsx,Sheet1,X57,L1_v1,unit_text,10 btl,fixed,strip_unit,10.0
+laporan_G1_2026-03.xlsx,Sheet1,Z50,L1_v1,text_na,,fixed,subtotal,9.0
+laporan_G1_2026-03.xlsx,Sheet1,Z72,L1_v1,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G1_2026-04.xlsx,Sheet1,AA11,L1_v1,unit_text,3062 btl,fixed,strip_unit,3062.0
+laporan_G1_2026-04.xlsx,Sheet1,AA28,L1_v1,unit_text,3517 btl,fixed,strip_unit,3517.0
+laporan_G1_2026-04.xlsx,Sheet1,AA68,L1_v1,unit_text,25 btl,fixed,strip_unit,25.0
+laporan_G1_2026-04.xlsx,Sheet1,AA78,L1_v1,text_na,,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,AA83,L1_v1,dash,-,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,AA9,L1_v1,outlier,30700,fixed,subtotal,3070.0
+laporan_G1_2026-04.xlsx,Sheet1,AB51,L1_v1,dash,-,fixed,subtotal,9.0
+laporan_G1_2026-04.xlsx,Sheet1,AC25,L1_v1,dash,-,fixed,subtotal,3333.0
+laporan_G1_2026-04.xlsx,Sheet1,E29,L1_v1,unit_text,3404 btl,fixed,strip_unit,3404.0
+laporan_G1_2026-04.xlsx,Sheet1,E52,L1_v1,outlier,40,flagged,,40.0
+laporan_G1_2026-04.xlsx,Sheet1,E68,L1_v1,dash,-,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,F11,L1_v1,outlier,30730,flagged,,30730.0
+laporan_G1_2026-04.xlsx,Sheet1,F39,L1_v1,outlier,14580,flagged,,14580.0
+laporan_G1_2026-04.xlsx,Sheet1,G21,L1_v1,dash,-,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,G39,L1_v1,dash,-,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,G57,L1_v1,text_na,,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,G60,L1_v1,unit_text,6 btl,fixed,strip_unit,6.0
+laporan_G1_2026-04.xlsx,Sheet1,G72,L1_v1,text_na,,flagged,,
+laporan_G1_2026-04.xlsx,Sheet1,I62,L1_v1,outlier,100,flagged,,100.0
+laporan_G1_2026-04.xlsx,Sheet1,I71,L1_v1,unit_text,23 btl,fixed,strip_unit,23.0
+laporan_G1_2026-04.xlsx,Sheet1,I74,L1_v1,outlier,210,flagged,,210.0
+laporan_G1_2026-04.xlsx,Sheet1,J41,L1_v1,outlier,15030,fixed,subtotal,1503.0
+laporan_G1_2026-04.xlsx,Sheet1,K8,L1_v1,text_na,,fixed,subtotal,3459.0
+laporan_G1_2026-04.xlsx,Sheet1,L69,L1_v1,text_na,,fixed,subtotal,14.0
+laporan_G1_2026-04.xlsx,Sheet1,M83,L1_v1,dash,-,fixed,subtotal,12.0
+laporan_G1_2026-04.xlsx,Sheet1,N51,L1_v1,unit_text,18 btl,fixed,strip_unit,18.0
+laporan_G1_2026-04.xlsx,Sheet1,N64,L1_v1,text_na,,fixed,subtotal,4.0
+laporan_G1_2026-04.xlsx,Sheet1,Q52,L1_v1,dash,-,fixed,subtotal,15.0
+laporan_G1_2026-04.xlsx,Sheet1,R35,L1_v1,text_na,,fixed,subtotal,2871.0
+laporan_G1_2026-04.xlsx,Sheet1,S10,L1_v1,outlier,38560,fixed,subtotal,3856.0
+laporan_G1_2026-04.xlsx,Sheet1,S33,L1_v1,unit_text,2494 btl,fixed,strip_unit,2494.0
+laporan_G1_2026-04.xlsx,Sheet1,S52,L1_v1,text_na,,fixed,subtotal,12.0
+laporan_G1_2026-04.xlsx,Sheet1,T16,L1_v1,dash,-,fixed,subtotal,3113.0
+laporan_G1_2026-04.xlsx,Sheet1,W38,L1_v1,outlier,15730,fixed,subtotal,1573.0
+laporan_G1_2026-04.xlsx,Sheet1,Y14,L1_v1,text_na,,fixed,subtotal,2382.0
+laporan_G1_2026-04.xlsx,Sheet1,Y40,L1_v1,unit_text,1621 btl,fixed,strip_unit,1621.0
+laporan_G1_2026-05.xlsx,Sheet1,AA19,L1_v1,outlier,16140,fixed,subtotal,1614.0
+laporan_G1_2026-05.xlsx,Sheet1,AA35,L1_v1,unit_text,2767 btl,fixed,strip_unit,2767.0
+laporan_G1_2026-05.xlsx,Sheet1,AA36,L1_v1,unit_text,2538 btl,fixed,strip_unit,2538.0
+laporan_G1_2026-05.xlsx,Sheet1,AA52,L1_v1,dash,-,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,AA60,L1_v1,outlier,50,flagged,,50.0
+laporan_G1_2026-05.xlsx,Sheet1,AC48,L1_v1,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G1_2026-05.xlsx,Sheet1,AC64,L1_v1,text_na,,fixed,subtotal,5.0
+laporan_G1_2026-05.xlsx,Sheet1,E27,L1_v1,text_na,,fixed,subtotal,3230.0
+laporan_G1_2026-05.xlsx,Sheet1,F31,L1_v1,text_na,,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,F38,L1_v1,outlier,15410,flagged,,15410.0
+laporan_G1_2026-05.xlsx,Sheet1,G17,L1_v1,text_na,,fixed,subtotal,2911.0
+laporan_G1_2026-05.xlsx,Sheet1,G35,L1_v1,unit_text,2948 btl,fixed,strip_unit,2948.0
+laporan_G1_2026-05.xlsx,Sheet1,H52,L1_v1,outlier,140,fixed,subtotal,14.0
+laporan_G1_2026-05.xlsx,Sheet1,I62,L1_v1,dash,-,fixed,subtotal,3.0
+laporan_G1_2026-05.xlsx,Sheet1,J17,L1_v1,outlier,28250,fixed,subtotal,2825.0
+laporan_G1_2026-05.xlsx,Sheet1,J27,L1_v1,unit_text,3406 btl,fixed,strip_unit,3406.0
+laporan_G1_2026-05.xlsx,Sheet1,K17,L1_v1,dash,-,fixed,subtotal,2978.0
+laporan_G1_2026-05.xlsx,Sheet1,L53,L1_v1,unit_text,13 btl,fixed,strip_unit,13.0
+laporan_G1_2026-05.xlsx,Sheet1,L67,L1_v1,dash,-,fixed,subtotal,22.0
+laporan_G1_2026-05.xlsx,Sheet1,M10,L1_v1,unit_text,3577 btl,fixed,strip_unit,3577.0
+laporan_G1_2026-05.xlsx,Sheet1,M30,L1_v1,outlier,31750,fixed,subtotal,3175.0
+laporan_G1_2026-05.xlsx,Sheet1,N67,L1_v1,text_na,,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,N82,L1_v1,outlier,110,flagged,,110.0
+laporan_G1_2026-05.xlsx,Sheet1,O22,L1_v1,outlier,17300,fixed,subtotal,1730.0
+laporan_G1_2026-05.xlsx,Sheet1,P49,L1_v1,outlier,110,fixed,subtotal,11.0
+laporan_G1_2026-05.xlsx,Sheet1,Q26,L1_v1,dash,-,fixed,subtotal,3332.0
+laporan_G1_2026-05.xlsx,Sheet1,Q57,L1_v1,text_na,,fixed,subtotal,8.0
+laporan_G1_2026-05.xlsx,Sheet1,T70,L1_v1,text_na,,fixed,subtotal,24.0
+laporan_G1_2026-05.xlsx,Sheet1,U77,L1_v1,dash,-,fixed,subtotal,13.0
+laporan_G1_2026-05.xlsx,Sheet1,W60,L1_v1,dash,-,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,W76,L1_v1,dash,-,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,X81,L1_v1,unit_text,7 btl,fixed,strip_unit,7.0
+laporan_G1_2026-05.xlsx,Sheet1,Y54,L1_v1,text_na,,fixed,subtotal,14.0
+laporan_G1_2026-05.xlsx,Sheet1,Z10,L1_v1,dash,-,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,Z20,L1_v1,text_na,,flagged,,
+laporan_G1_2026-05.xlsx,Sheet1,Z83,L1_v1,unit_text,5 btl,fixed,strip_unit,5.0
+laporan_G1_2026-05.xlsx,Sheet1 (2),,L1_v1,duplicate_sheet,mirip 98.4% dengan 'Sheet1',dropped,,
+laporan_G1_2026-06.xlsx,Sheet1,AA42,L1_v2,text_na,,fixed,subtotal,1472.0
+laporan_G1_2026-06.xlsx,Sheet1,AA70,L1_v2,unit_text,26 btl,fixed,strip_unit,26.0
+laporan_G1_2026-06.xlsx,Sheet1,AB17,L1_v2,unit_text,2894 btl,fixed,strip_unit,2894.0
+laporan_G1_2026-06.xlsx,Sheet1,AB23,L1_v2,unit_text,1386 btl,fixed,strip_unit,1386.0
+laporan_G1_2026-06.xlsx,Sheet1,AB43,L1_v2,dash,-,fixed,subtotal,1513.0
+laporan_G1_2026-06.xlsx,Sheet1,AD24,L1_v2,dash,-,fixed,subtotal,1452.0
+laporan_G1_2026-06.xlsx,Sheet1,AE75,L1_v2,unit_text,16 btl,fixed,strip_unit,16.0
+laporan_G1_2026-06.xlsx,Sheet1,G70,L1_v2,outlier,230,flagged,,230.0
+laporan_G1_2026-06.xlsx,Sheet1,G79,L1_v2,outlier,250,flagged,,250.0
+laporan_G1_2026-06.xlsx,Sheet1,H74,L1_v2,dash,-,fixed,subtotal,15.0
+laporan_G1_2026-06.xlsx,Sheet1,I10,L1_v2,outlier,35590,flagged,,35590.0
+laporan_G1_2026-06.xlsx,Sheet1,I27,L1_v2,text_na,,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,J16,L1_v2,dash,-,fixed,subtotal,2450.0
+laporan_G1_2026-06.xlsx,Sheet1,K40,L1_v2,text_na,,fixed,subtotal,1441.0
+laporan_G1_2026-06.xlsx,Sheet1,L56,L1_v2,unit_text,10 btl,fixed,strip_unit,10.0
+laporan_G1_2026-06.xlsx,Sheet1,L62,L1_v2,outlier,60,flagged,,60.0
+laporan_G1_2026-06.xlsx,Sheet1,L76,L1_v2,text_na,,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,M19,L1_v2,text_na,,fixed,subtotal,2387.0
+laporan_G1_2026-06.xlsx,Sheet1,M79,L1_v2,unit_text,14 btl,fixed,strip_unit,14.0
+laporan_G1_2026-06.xlsx,Sheet1,N27,L1_v2,unit_text,3903 btl,fixed,strip_unit,3903.0
+laporan_G1_2026-06.xlsx,Sheet1,N9,L1_v2,unit_text,3125 btl,fixed,strip_unit,3125.0
+laporan_G1_2026-06.xlsx,Sheet1,O26,L1_v2,dash,-,fixed,subtotal,1515.0
+laporan_G1_2026-06.xlsx,Sheet1,P14,L1_v2,outlier,31890,flagged,,31890.0
+laporan_G1_2026-06.xlsx,Sheet1,P39,L1_v2,text_na,,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,P71,L1_v2,dash,-,fixed,subtotal,16.0
+laporan_G1_2026-06.xlsx,Sheet1,R72,L1_v2,text_na,,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,R85,L1_v2,dash,-,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,T83,L1_v2,dash,-,fixed,subtotal,10.0
+laporan_G1_2026-06.xlsx,Sheet1,U42,L1_v2,outlier,16340,fixed,subtotal,1634.0
+laporan_G1_2026-06.xlsx,Sheet1,U50,L1_v2,unit_text,18 btl,fixed,strip_unit,18.0
+laporan_G1_2026-06.xlsx,Sheet1,V71,L1_v2,outlier,200,flagged,,200.0
+laporan_G1_2026-06.xlsx,Sheet1,V82,L1_v2,text_na,,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,W81,L1_v2,outlier,60,flagged,,60.0
+laporan_G1_2026-06.xlsx,Sheet1,W84,L1_v2,dash,-,flagged,,
+laporan_G1_2026-06.xlsx,Sheet1,X39,L1_v2,outlier,14970,fixed,subtotal,1497.0
+laporan_G1_2026-06.xlsx,Sheet1,Z32,L1_v2,text_na,,fixed,subtotal,3086.0
+laporan_G1_2026-07.xlsx,Sheet1,AA60,L1_v2,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G1_2026-07.xlsx,Sheet1,AB29,L1_v2,text_na,,fixed,subtotal,3279.0
+laporan_G1_2026-07.xlsx,Sheet1,AD81,L1_v2,dash,-,fixed,subtotal,5.0
+laporan_G1_2026-07.xlsx,Sheet1,AE39,L1_v2,text_na,,fixed,subtotal,1508.0
+laporan_G1_2026-07.xlsx,Sheet1,G61,L1_v2,dash,-,fixed,subtotal,7.0
+laporan_G1_2026-07.xlsx,Sheet1,H55,L1_v2,outlier,140,flagged,,140.0
+laporan_G1_2026-07.xlsx,Sheet1,H74,L1_v2,outlier,150,flagged,,150.0
+laporan_G1_2026-07.xlsx,Sheet1,J64,L1_v2,unit_text,6 btl,fixed,strip_unit,6.0
+laporan_G1_2026-07.xlsx,Sheet1,J78,L1_v2,text_na,,fixed,subtotal,12.0
+laporan_G1_2026-07.xlsx,Sheet1,K18,L1_v2,unit_text,2913 btl,fixed,strip_unit,2913.0
+laporan_G1_2026-07.xlsx,Sheet1,K63,L1_v2,outlier,50,fixed,subtotal,5.0
+laporan_G1_2026-07.xlsx,Sheet1,K74,L1_v2,unit_text,18 btl,fixed,strip_unit,18.0
+laporan_G1_2026-07.xlsx,Sheet1,L57,L1_v2,outlier,80,flagged,,80.0
+laporan_G1_2026-07.xlsx,Sheet1,L70,L1_v2,outlier,310,flagged,,310.0
+laporan_G1_2026-07.xlsx,Sheet1,M64,L1_v2,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G1_2026-07.xlsx,Sheet1,N55,L1_v2,outlier,190,fixed,subtotal,19.0
+laporan_G1_2026-07.xlsx,Sheet1,N63,L1_v2,unit_text,9 btl,fixed,strip_unit,9.0
+laporan_G1_2026-07.xlsx,Sheet1,O73,L1_v2,unit_text,24 btl,fixed,strip_unit,24.0
+laporan_G1_2026-07.xlsx,Sheet1,O82,L1_v2,dash,-,fixed,subtotal,9.0
+laporan_G1_2026-07.xlsx,Sheet1,P10,L1_v2,dash,-,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,P33,L1_v2,text_na,,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,P41,L1_v2,outlier,14860,flagged,,14860.0
+laporan_G1_2026-07.xlsx,Sheet1,Q32,L1_v2,text_na,,fixed,subtotal,3061.0
+laporan_G1_2026-07.xlsx,Sheet1,R66,L1_v2,dash,-,fixed,subtotal,6.0
+laporan_G1_2026-07.xlsx,Sheet1,T53,L1_v2,dash,-,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,T73,L1_v2,text_na,,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,V62,L1_v2,text_na,,fixed,subtotal,4.0
+laporan_G1_2026-07.xlsx,Sheet1,W35,L1_v2,unit_text,2803 btl,fixed,strip_unit,2803.0
+laporan_G1_2026-07.xlsx,Sheet1,W44,L1_v2,dash,-,fixed,subtotal,1342.0
+laporan_G1_2026-07.xlsx,Sheet1,W81,L1_v2,outlier,110,fixed,subtotal,11.0
+laporan_G1_2026-07.xlsx,Sheet1,X57,L1_v2,unit_text,10 btl,fixed,strip_unit,10.0
+laporan_G1_2026-07.xlsx,Sheet1,Y62,L1_v2,dash,-,fixed,subtotal,6.0
+laporan_G1_2026-07.xlsx,Sheet1,Z34,L1_v2,text_na,,fixed,subtotal,2914.0
+laporan_G1_2026-07.xlsx,Sheet1,Z52,L1_v2,dash,-,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,Z55,L1_v2,text_na,,flagged,,
+laporan_G1_2026-07.xlsx,Sheet1,Z73,L1_v2,outlier,200,flagged,,200.0
+laporan_G1_2026-08.xlsx,Sheet1,AA19,L1_v2,outlier,23730,fixed,subtotal,2373.0
+laporan_G1_2026-08.xlsx,Sheet1,AA51,L1_v2,outlier,140,fixed,subtotal,14.0
+laporan_G1_2026-08.xlsx,Sheet1,AC61,L1_v2,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G1_2026-08.xlsx,Sheet1,AD19,L1_v2,unit_text,2788 btl,fixed,strip_unit,2788.0
+laporan_G1_2026-08.xlsx,Sheet1,G16,L1_v2,outlier,28240,fixed,subtotal,2824.0
+laporan_G1_2026-08.xlsx,Sheet1,G59,L1_v2,text_na,,fixed,subtotal,9.0
+laporan_G1_2026-08.xlsx,Sheet1,H24,L1_v2,dash,-,fixed,subtotal,1400.0
+laporan_G1_2026-08.xlsx,Sheet1,H53,L1_v2,unit_text,6 btl,fixed,strip_unit,6.0
+laporan_G1_2026-08.xlsx,Sheet1,H57,L1_v2,outlier,110,fixed,subtotal,11.0
+laporan_G1_2026-08.xlsx,Sheet1,I32,L1_v2,outlier,35770,flagged,,35770.0
+laporan_G1_2026-08.xlsx,Sheet1,I42,L1_v2,dash,-,flagged,,
+laporan_G1_2026-08.xlsx,Sheet1,J41,L1_v2,unit_text,1548 btl,fixed,strip_unit,1548.0
+laporan_G1_2026-08.xlsx,Sheet1,J70,L1_v2,dash,-,fixed,subtotal,18.0
+laporan_G1_2026-08.xlsx,Sheet1,L53,L1_v2,dash,-,fixed,subtotal,18.0
+laporan_G1_2026-08.xlsx,Sheet1,L84,L1_v2,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G1_2026-08.xlsx,Sheet1,L9,L1_v2,unit_text,3046 btl,fixed,strip_unit,3046.0
+laporan_G1_2026-08.xlsx,Sheet1,M21,L1_v2,text_na,,fixed,subtotal,1414.0
+laporan_G1_2026-08.xlsx,Sheet1,N28,L1_v2,text_na,,fixed,subtotal,3110.0
+laporan_G1_2026-08.xlsx,Sheet1,O78,L1_v2,dash,-,fixed,subtotal,18.0
+laporan_G1_2026-08.xlsx,Sheet1,P35,L1_v2,dash,-,flagged,,
+laporan_G1_2026-08.xlsx,Sheet1,P37,L1_v2,dash,-,flagged,,
+laporan_G1_2026-08.xlsx,Sheet1,P41,L1_v2,outlier,15520,flagged,,15520.0
+laporan_G1_2026-08.xlsx,Sheet1,P42,L1_v2,text_na,,flagged,,
+laporan_G1_2026-08.xlsx,Sheet1,Q22,L1_v2,unit_text,1582 btl,fixed,strip_unit,1582.0
+laporan_G1_2026-08.xlsx,Sheet1,Q63,L1_v2,dash,-,fixed,subtotal,4.0
+laporan_G1_2026-08.xlsx,Sheet1,R43,L1_v2,text_na,,flagged,,
+laporan_G1_2026-08.xlsx,Sheet1,R66,L1_v2,text_na,,fixed,subtotal,5.0
+laporan_G1_2026-08.xlsx,Sheet1,R9,L1_v2,outlier,31170,flagged,,31170.0
+laporan_G1_2026-08.xlsx,Sheet1,S39,L1_v2,text_na,,fixed,subtotal,1639.0
+laporan_G1_2026-08.xlsx,Sheet1,S73,L1_v2,outlier,160,fixed,subtotal,16.0
+laporan_G1_2026-08.xlsx,Sheet1,S82,L1_v2,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G1_2026-08.xlsx,Sheet1,U69,L1_v2,dash,-,fixed,subtotal,26.0
+laporan_G1_2026-08.xlsx,Sheet1,W51,L1_v2,text_na,,fixed,subtotal,7.0
+laporan_G1_2026-08.xlsx,Sheet1,Z54,L1_v2,outlier,120,flagged,,120.0
+laporan_G1_2026-08.xlsx,Sheet1,Z59,L1_v2,unit_text,15 btl,fixed,strip_unit,15.0
+laporan_G1_2026-08.xlsx,Sheet1,Z80,L1_v2,text_na,,flagged,,
+laporan_G2_2026-03.xlsx,Laporan,C175,L2_v1,text_na,,fixed,subtotal,3281.0
+laporan_G2_2026-03.xlsx,Laporan,C194,L2_v1,unit_text,2991 btl,fixed,strip_unit,2991.0
+laporan_G2_2026-03.xlsx,Laporan,C260,L2_v1,text_na,,fixed,subtotal,2856.0
+laporan_G2_2026-03.xlsx,Laporan,C478,L2_v1,unit_text,1358 btl,fixed,strip_unit,1358.0
+laporan_G2_2026-03.xlsx,Laporan,C508,L2_v1,unit_text,3317 btl,fixed,strip_unit,3317.0
+laporan_G2_2026-03.xlsx,Laporan,C511,L2_v1,outlier,26300,fixed,subtotal,2630.0
+laporan_G2_2026-03.xlsx,Laporan,C513,L2_v1,text_na,,fixed,subtotal,1293.0
+laporan_G2_2026-03.xlsx,Laporan,C519,L2_v1,dash,-,fixed,subtotal,3097.0
+laporan_G2_2026-03.xlsx,Laporan,C523,L2_v1,outlier,14920,fixed,subtotal,1492.0
+laporan_G2_2026-03.xlsx,Laporan,C59,L2_v1,unit_text,3127 btl,fixed,strip_unit,3127.0
+laporan_G2_2026-03.xlsx,Laporan,C92,L2_v1,dash,-,fixed,subtotal,3035.0
+laporan_G2_2026-03.xlsx,Laporan,D110,L2_v1,dash,-,fixed,subtotal,59.0
+laporan_G2_2026-03.xlsx,Laporan,D155,L2_v1,outlier,310,fixed,subtotal,31.0
+laporan_G2_2026-03.xlsx,Laporan,D187,L2_v1,outlier,120,fixed,subtotal,12.0
+laporan_G2_2026-03.xlsx,Laporan,D239,L2_v1,text_na,,fixed,subtotal,18.0
+laporan_G2_2026-03.xlsx,Laporan,D437,L2_v1,dash,-,flagged,,
+laporan_G2_2026-03.xlsx,Laporan,D438,L2_v1,text_na,,flagged,,
+laporan_G2_2026-03.xlsx,Laporan,D82,L2_v1,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G2_2026-03.xlsx,Laporan,E135,L2_v1,text_na,,fixed,subtotal,1733.0
+laporan_G2_2026-03.xlsx,Laporan,E237,L2_v1,unit_text,1592 btl,fixed,strip_unit,1592.0
+laporan_G2_2026-03.xlsx,Laporan,E298,L2_v1,dash,-,fixed,subtotal,3258.0
+laporan_G2_2026-03.xlsx,Laporan,E384,L2_v1,dash,-,fixed,subtotal,1597.0
+laporan_G2_2026-03.xlsx,Laporan,E395,L2_v1,outlier,29030,fixed,subtotal,2903.0
+laporan_G2_2026-03.xlsx,Laporan,E520,L2_v1,outlier,13490,fixed,subtotal,1349.0
+laporan_G2_2026-03.xlsx,Laporan,E7,L2_v1,dash,-,fixed,subtotal,2832.0
+laporan_G2_2026-03.xlsx,Laporan,F207,L2_v1,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G2_2026-03.xlsx,Laporan,F258,L2_v1,dash,-,fixed,subtotal,23.0
+laporan_G2_2026-03.xlsx,Laporan,F353,L2_v1,outlier,250,fixed,subtotal,25.0
+laporan_G2_2026-03.xlsx,Laporan,F382,L2_v1,unit_text,70 btl,fixed,strip_unit,70.0
+laporan_G2_2026-03.xlsx,Laporan,F425,L2_v1,unit_text,65 btl,fixed,strip_unit,65.0
+laporan_G2_2026-03.xlsx,Laporan,G176,L2_v1,text_na,,fixed,subtotal,2957.0
+laporan_G2_2026-03.xlsx,Laporan,G260,L2_v1,dash,-,fixed,subtotal,2607.0
+laporan_G2_2026-03.xlsx,Laporan,G373,L2_v1,text_na,,fixed,subtotal,1371.0
+laporan_G2_2026-03.xlsx,Laporan,G509,L2_v1,outlier,25610,fixed,subtotal,2561.0
+laporan_G2_2026-03.xlsx,Laporan,H175,L2_v1,text_na,,fixed,subtotal,29.0
+laporan_G2_2026-03.xlsx,Laporan,H519,L2_v1,outlier,510,fixed,subtotal,51.0
+laporan_G2_2026-04.xlsx,Laporan,C120,L2_v1,outlier,25510,fixed,subtotal,2551.0
+laporan_G2_2026-04.xlsx,Laporan,C177,L2_v1,unit_text,1371 btl,fixed,strip_unit,1371.0
+laporan_G2_2026-04.xlsx,Laporan,C343,L2_v1,text_na,,fixed,subtotal,3181.0
+laporan_G2_2026-04.xlsx,Laporan,C362,L2_v1,dash,-,fixed,subtotal,3025.0
+laporan_G2_2026-04.xlsx,Laporan,C396,L2_v1,outlier,27910,fixed,subtotal,2791.0
+laporan_G2_2026-04.xlsx,Laporan,C418,L2_v1,dash,-,fixed,subtotal,1566.0
+laporan_G2_2026-04.xlsx,Laporan,C434,L2_v1,dash,-,fixed,subtotal,2985.0
+laporan_G2_2026-04.xlsx,Laporan,C466,L2_v1,text_na,,fixed,subtotal,3291.0
+laporan_G2_2026-04.xlsx,Laporan,C519,L2_v1,text_na,,fixed,subtotal,2873.0
+laporan_G2_2026-04.xlsx,Laporan,C93,L2_v1,outlier,14940,fixed,subtotal,1494.0
+laporan_G2_2026-04.xlsx,Laporan,D110,L2_v1,outlier,600,fixed,subtotal,60.0
+laporan_G2_2026-04.xlsx,Laporan,D134,L2_v1,unit_text,25 btl,fixed,strip_unit,25.0
+laporan_G2_2026-04.xlsx,Laporan,D345,L2_v1,outlier,120,fixed,subtotal,12.0
+laporan_G2_2026-04.xlsx,Laporan,D416,L2_v1,outlier,330,fixed,subtotal,33.0
+laporan_G2_2026-04.xlsx,Laporan,E131,L2_v1,unit_text,2199 btl,fixed,strip_unit,2199.0
+laporan_G2_2026-04.xlsx,Laporan,E279,L2_v1,outlier,15290,fixed,subtotal,1529.0
+laporan_G2_2026-04.xlsx,Laporan,E414,L2_v1,outlier,26080,fixed,subtotal,2608.0
+laporan_G2_2026-04.xlsx,Laporan,E466,L2_v1,text_na,,fixed,subtotal,2897.0
+laporan_G2_2026-04.xlsx,Laporan,E70,L2_v1,text_na,,fixed,subtotal,2895.0
+laporan_G2_2026-04.xlsx,Laporan,F204,L2_v1,dash,-,fixed,subtotal,47.0
+laporan_G2_2026-04.xlsx,Laporan,F225,L2_v1,unit_text,55 btl,fixed,strip_unit,55.0
+laporan_G2_2026-04.xlsx,Laporan,F277,L2_v1,dash,-,fixed,subtotal,61.0
+laporan_G2_2026-04.xlsx,Laporan,F301,L2_v1,outlier,320,fixed,subtotal,32.0
+laporan_G2_2026-04.xlsx,Laporan,F446,L2_v1,unit_text,59 btl,fixed,strip_unit,59.0
+laporan_G2_2026-04.xlsx,Laporan,F99,L2_v1,text_na,,fixed,subtotal,71.0
+laporan_G2_2026-04.xlsx,Laporan,G29,L2_v1,unit_text,2552 btl,fixed,strip_unit,2552.0
+laporan_G2_2026-04.xlsx,Laporan,G342,L2_v1,dash,-,fixed,subtotal,1486.0
+laporan_G2_2026-04.xlsx,Laporan,G386,L2_v1,text_na,,fixed,subtotal,2763.0
+laporan_G2_2026-04.xlsx,Laporan,G478,L2_v1,dash,-,fixed,subtotal,1518.0
+laporan_G2_2026-04.xlsx,Laporan,G521,L2_v1,text_na,,fixed,subtotal,3273.0
+laporan_G2_2026-04.xlsx,Laporan,H214,L2_v1,text_na,,fixed,subtotal,62.0
+laporan_G2_2026-04.xlsx,Laporan,H333,L2_v1,dash,-,fixed,subtotal,34.0
+laporan_G2_2026-04.xlsx,Laporan,H392,L2_v1,dash,-,fixed,subtotal,64.0
+laporan_G2_2026-04.xlsx,Laporan,H394,L2_v1,unit_text,22 btl,fixed,strip_unit,22.0
+laporan_G2_2026-04.xlsx,Laporan,H491,L2_v1,unit_text,22 btl,fixed,strip_unit,22.0
+laporan_G2_2026-04.xlsx,Laporan,H503,L2_v1,subtotal_mismatch,287,flagged,,197.0
+laporan_G2_2026-04.xlsx,Laporan,H99,L2_v1,unit_text,48 btl,fixed,strip_unit,48.0
+laporan_G2_2026-05.xlsx,Laporan,C237,L2_v1,dash,-,fixed,subtotal,1425.0
+laporan_G2_2026-05.xlsx,Laporan,C250,L2_v1,unit_text,1414 btl,fixed,strip_unit,1414.0
+laporan_G2_2026-05.xlsx,Laporan,C308,L2_v1,text_na,,fixed,subtotal,3304.0
+laporan_G2_2026-05.xlsx,Laporan,C323,L2_v1,unit_text,2766 btl,fixed,strip_unit,2766.0
+laporan_G2_2026-05.xlsx,Laporan,C329,L2_v1,text_na,,fixed,subtotal,3449.0
+laporan_G2_2026-05.xlsx,Laporan,C470,L2_v1,outlier,26320,fixed,subtotal,2632.0
+laporan_G2_2026-05.xlsx,Laporan,D215,L2_v1,dash,-,fixed,subtotal,50.0
+laporan_G2_2026-05.xlsx,Laporan,D267,L2_v1,text_na,,fixed,subtotal,51.0
+laporan_G2_2026-05.xlsx,Laporan,D329,L2_v1,outlier,740,fixed,subtotal,74.0
+laporan_G2_2026-05.xlsx,Laporan,D508,L2_v1,unit_text,72 btl,fixed,strip_unit,72.0
+laporan_G2_2026-05.xlsx,Laporan,E100,L2_v1,dash,-,fixed,subtotal,1600.0
+laporan_G2_2026-05.xlsx,Laporan,E145,L2_v1,dash,-,fixed,subtotal,1281.0
+laporan_G2_2026-05.xlsx,Laporan,E19,L2_v1,text_na,,fixed,subtotal,1429.0
+laporan_G2_2026-05.xlsx,Laporan,E204,L2_v1,dash,-,fixed,subtotal,2707.0
+laporan_G2_2026-05.xlsx,Laporan,E266,L2_v1,unit_text,3045 btl,fixed,strip_unit,3045.0
+laporan_G2_2026-05.xlsx,Laporan,E290,L2_v1,outlier,33700,fixed,subtotal,3370.0
+laporan_G2_2026-05.xlsx,Laporan,E322,L2_v1,unit_text,3088 btl,fixed,strip_unit,3088.0
+laporan_G2_2026-05.xlsx,Laporan,E99,L2_v1,outlier,32200,fixed,subtotal,3220.0
+laporan_G2_2026-05.xlsx,Laporan,F102,L2_v1,outlier,230,fixed,subtotal,23.0
+laporan_G2_2026-05.xlsx,Laporan,F109,L2_v1,outlier,720,fixed,subtotal,72.0
+laporan_G2_2026-05.xlsx,Laporan,F110,L2_v1,unit_text,57 btl,fixed,strip_unit,57.0
+laporan_G2_2026-05.xlsx,Laporan,F134,L2_v1,text_na,,fixed,subtotal,25.0
+laporan_G2_2026-05.xlsx,Laporan,F15,L2_v1,unit_text,59 btl,fixed,strip_unit,59.0
+laporan_G2_2026-05.xlsx,Laporan,F153,L2_v1,text_na,,flagged,,
+laporan_G2_2026-05.xlsx,Laporan,F156,L2_v1,text_na,,flagged,,
+laporan_G2_2026-05.xlsx,Laporan,F259,L2_v1,outlier,310,fixed,subtotal,31.0
+laporan_G2_2026-05.xlsx,Laporan,F425,L2_v1,unit_text,51 btl,fixed,strip_unit,51.0
+laporan_G2_2026-05.xlsx,Laporan,G114,L2_v1,text_na,,fixed,subtotal,1323.0
+laporan_G2_2026-05.xlsx,Laporan,G14,L2_v1,dash,-,fixed,subtotal,3060.0
+laporan_G2_2026-05.xlsx,Laporan,G392,L2_v1,dash,-,fixed,subtotal,3522.0
+laporan_G2_2026-05.xlsx,Laporan,G99,L2_v1,dash,-,fixed,subtotal,3149.0
+laporan_G2_2026-05.xlsx,Laporan,H309,L2_v1,outlier,680,fixed,subtotal,68.0
+laporan_G2_2026-05.xlsx,Laporan,H36,L2_v1,text_na,,fixed,subtotal,55.0
+laporan_G2_2026-05.xlsx,Laporan,H397,L2_v1,outlier,120,fixed,subtotal,12.0
+laporan_G2_2026-05.xlsx,Laporan,H48,L2_v1,dash,-,fixed,subtotal,25.0
+laporan_G2_2026-05.xlsx,Laporan,H61,L2_v1,unit_text,14 btl,fixed,strip_unit,14.0
+laporan_G2_2026-06.xlsx,Laporan,C205,L2_v1,outlier,15620,fixed,subtotal,1562.0
+laporan_G2_2026-06.xlsx,Laporan,C298,L2_v1,text_na,,fixed,subtotal,2859.0
+laporan_G2_2026-06.xlsx,Laporan,C365,L2_v1,text_na,,fixed,subtotal,2531.0
+laporan_G2_2026-06.xlsx,Laporan,C374,L2_v1,text_na,,fixed,subtotal,3349.0
+laporan_G2_2026-06.xlsx,Laporan,C467,L2_v1,dash,-,fixed,subtotal,2737.0
+laporan_G2_2026-06.xlsx,Laporan,C481,L2_v1,unit_text,1379 btl,fixed,strip_unit,1379.0
+laporan_G2_2026-06.xlsx,Laporan,C487,L2_v1,outlier,33990,fixed,subtotal,3399.0
+laporan_G2_2026-06.xlsx,Laporan,C51,L2_v1,text_na,,fixed,subtotal,1504.0
+laporan_G2_2026-06.xlsx,Laporan,D143,L2_v1,unit_text,28 btl,fixed,strip_unit,28.0
+laporan_G2_2026-06.xlsx,Laporan,D203,L2_v1,dash,-,fixed,subtotal,70.0
+laporan_G2_2026-06.xlsx,Laporan,D308,L2_v1,unit_text,70 btl,fixed,strip_unit,70.0
+laporan_G2_2026-06.xlsx,Laporan,D350,L2_v1,text_na,,fixed,subtotal,82.0
+laporan_G2_2026-06.xlsx,Laporan,D79,L2_v1,dash,-,fixed,subtotal,26.0
+laporan_G2_2026-06.xlsx,Laporan,E141,L2_v1,unit_text,2074 btl,fixed,strip_unit,2074.0
+laporan_G2_2026-06.xlsx,Laporan,E278,L2_v1,dash,-,fixed,subtotal,2603.0
+laporan_G2_2026-06.xlsx,Laporan,E48,L2_v1,outlier,16070,fixed,subtotal,1607.0
+laporan_G2_2026-06.xlsx,Laporan,E518,L2_v1,dash,-,fixed,subtotal,3367.0
+laporan_G2_2026-06.xlsx,Laporan,F395,L2_v1,outlier,270,fixed,subtotal,27.0
+laporan_G2_2026-06.xlsx,Laporan,F4,L2_v1,unit_text,61 btl,fixed,strip_unit,61.0
+laporan_G2_2026-06.xlsx,Laporan,F428,L2_v1,dash,-,fixed,subtotal,27.0
+laporan_G2_2026-06.xlsx,Laporan,F478,L2_v1,dash,-,fixed,subtotal,27.0
+laporan_G2_2026-06.xlsx,Laporan,F523,L2_v1,text_na,,fixed,subtotal,20.0
+laporan_G2_2026-06.xlsx,Laporan,G245,L2_v1,outlier,31980,fixed,subtotal,3198.0
+laporan_G2_2026-06.xlsx,Laporan,G247,L2_v1,unit_text,1427 btl,fixed,strip_unit,1427.0
+laporan_G2_2026-06.xlsx,Laporan,G268,L2_v1,outlier,14900,fixed,subtotal,1490.0
+laporan_G2_2026-06.xlsx,Laporan,G323,L2_v1,outlier,25020,fixed,subtotal,2502.0
+laporan_G2_2026-06.xlsx,Laporan,G344,L2_v1,text_na,,fixed,subtotal,2636.0
+laporan_G2_2026-06.xlsx,Laporan,G460,L2_v1,outlier,14860,fixed,subtotal,1486.0
+laporan_G2_2026-06.xlsx,Laporan,G509,L2_v1,unit_text,2608 btl,fixed,strip_unit,2608.0
+laporan_G2_2026-06.xlsx,Laporan,H102,L2_v1,outlier,240,fixed,subtotal,24.0
+laporan_G2_2026-06.xlsx,Laporan,H271,L2_v1,text_na,,fixed,subtotal,7.0
+laporan_G2_2026-06.xlsx,Laporan,H290,L2_v1,unit_text,31 btl,fixed,strip_unit,31.0
+laporan_G2_2026-06.xlsx,Laporan,H332,L2_v1,dash,-,fixed,subtotal,22.0
+laporan_G2_2026-06.xlsx,Laporan,H35,L2_v1,text_na,,fixed,subtotal,65.0
+laporan_G2_2026-06.xlsx,Laporan,H426,L2_v1,unit_text,26 btl,fixed,strip_unit,26.0
+laporan_G2_2026-06.xlsx,Laporan,H448,L2_v1,dash,-,fixed,subtotal,26.0
+laporan_G2_2026-07.xlsx,Laporan,C112,L2_v1,outlier,33240,fixed,subtotal,3324.0
+laporan_G2_2026-07.xlsx,Laporan,C207,L2_v1,dash,-,fixed,subtotal,2407.0
+laporan_G2_2026-07.xlsx,Laporan,C29,L2_v1,unit_text,2851 btl,fixed,strip_unit,2851.0
+laporan_G2_2026-07.xlsx,Laporan,C290,L2_v1,text_na,,fixed,subtotal,2909.0
+laporan_G2_2026-07.xlsx,Laporan,D173,L2_v1,outlier,620,fixed,subtotal,62.0
+laporan_G2_2026-07.xlsx,Laporan,D194,L2_v1,text_na,,fixed,subtotal,49.0
+laporan_G2_2026-07.xlsx,Laporan,D216,L2_v1,dash,-,fixed,subtotal,34.0
+laporan_G2_2026-07.xlsx,Laporan,D27,L2_v1,dash,-,fixed,subtotal,23.0
+laporan_G2_2026-07.xlsx,Laporan,D35,L2_v1,outlier,490,flagged,,490.0
+laporan_G2_2026-07.xlsx,Laporan,D39,L2_v1,outlier,280,flagged,,280.0
+laporan_G2_2026-07.xlsx,Laporan,D446,L2_v1,text_na,,fixed,subtotal,63.0
+laporan_G2_2026-07.xlsx,Laporan,D471,L2_v1,dash,-,fixed,subtotal,11.0
+laporan_G2_2026-07.xlsx,Laporan,D5,L2_v1,outlier,540,fixed,subtotal,54.0
+laporan_G2_2026-07.xlsx,Laporan,D91,L2_v1,unit_text,24 btl,fixed,strip_unit,24.0
+laporan_G2_2026-07.xlsx,Laporan,E18,L2_v1,unit_text,2974 btl,fixed,strip_unit,2974.0
+laporan_G2_2026-07.xlsx,Laporan,E229,L2_v1,unit_text,1568 btl,fixed,strip_unit,1568.0
+laporan_G2_2026-07.xlsx,Laporan,E249,L2_v1,dash,-,fixed,subtotal,2846.0
+laporan_G2_2026-07.xlsx,Laporan,E30,L2_v1,unit_text,1569 btl,fixed,strip_unit,1569.0
+laporan_G2_2026-07.xlsx,Laporan,E332,L2_v1,text_na,,fixed,subtotal,3028.0
+laporan_G2_2026-07.xlsx,Laporan,E374,L2_v1,text_na,,fixed,subtotal,3258.0
+laporan_G2_2026-07.xlsx,Laporan,E429,L2_v1,outlier,15320,fixed,subtotal,1532.0
+laporan_G2_2026-07.xlsx,Laporan,E459,L2_v1,text_na,,fixed,subtotal,3035.0
+laporan_G2_2026-07.xlsx,Laporan,E58,L2_v1,dash,-,fixed,subtotal,1566.0
+laporan_G2_2026-07.xlsx,Laporan,E79,L2_v1,unit_text,1605 btl,fixed,strip_unit,1605.0
+laporan_G2_2026-07.xlsx,Laporan,F161,L2_v1,dash,-,fixed,subtotal,58.0
+laporan_G2_2026-07.xlsx,Laporan,F249,L2_v1,unit_text,21 btl,fixed,strip_unit,21.0
+laporan_G2_2026-07.xlsx,Laporan,F367,L2_v1,subtotal_mismatch,284,flagged,,194.0
+laporan_G2_2026-07.xlsx,Laporan,F479,L2_v1,text_na,,fixed,subtotal,21.0
+laporan_G2_2026-07.xlsx,Laporan,F498,L2_v1,unit_text,44 btl,fixed,strip_unit,44.0
+laporan_G2_2026-07.xlsx,Laporan,G260,L2_v1,outlier,26840,fixed,subtotal,2684.0
+laporan_G2_2026-07.xlsx,Laporan,G330,L2_v1,unit_text,2830 btl,fixed,strip_unit,2830.0
+laporan_G2_2026-07.xlsx,Laporan,G35,L2_v1,text_na,,fixed,subtotal,3206.0
+laporan_G2_2026-07.xlsx,Laporan,G393,L2_v1,outlier,28960,fixed,subtotal,2896.0
+laporan_G2_2026-07.xlsx,Laporan,G416,L2_v1,outlier,32460,fixed,subtotal,3246.0
+laporan_G2_2026-07.xlsx,Laporan,G458,L2_v1,text_na,,fixed,subtotal,3152.0
+laporan_G2_2026-07.xlsx,Laporan,H324,L2_v1,dash,-,fixed,subtotal,16.0
+laporan_G2_2026-07.xlsx,Laporan,H38,L2_v1,dash,-,fixed,subtotal,28.0
+laporan_G2_2026-08.xlsx,Laporan,C17,L2_v1,outlier,30860,fixed,subtotal,3086.0
+laporan_G2_2026-08.xlsx,Laporan,C183,L2_v1,dash,-,fixed,subtotal,2819.0
+laporan_G2_2026-08.xlsx,Laporan,C289,L2_v1,text_na,,fixed,subtotal,1388.0
+laporan_G2_2026-08.xlsx,Laporan,C313,L2_v1,dash,-,fixed,subtotal,1731.0
+laporan_G2_2026-08.xlsx,Laporan,D161,L2_v1,unit_text,50 btl,fixed,strip_unit,50.0
+laporan_G2_2026-08.xlsx,Laporan,D203,L2_v1,text_na,,fixed,subtotal,85.0
+laporan_G2_2026-08.xlsx,Laporan,D311,L2_v1,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G2_2026-08.xlsx,Laporan,D38,L2_v1,outlier,280,fixed,subtotal,28.0
+laporan_G2_2026-08.xlsx,Laporan,D407,L2_v1,dash,-,fixed,subtotal,30.0
+laporan_G2_2026-08.xlsx,Laporan,D492,L2_v1,text_na,,fixed,subtotal,14.0
+laporan_G2_2026-08.xlsx,Laporan,D9,L2_v1,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G2_2026-08.xlsx,Laporan,E131,L2_v1,text_na,,fixed,subtotal,2502.0
+laporan_G2_2026-08.xlsx,Laporan,E183,L2_v1,unit_text,2720 btl,fixed,strip_unit,2720.0
+laporan_G2_2026-08.xlsx,Laporan,E269,L2_v1,outlier,30010,fixed,subtotal,3001.0
+laporan_G2_2026-08.xlsx,Laporan,E271,L2_v1,dash,-,fixed,subtotal,1533.0
+laporan_G2_2026-08.xlsx,Laporan,E407,L2_v1,dash,-,fixed,subtotal,2619.0
+laporan_G2_2026-08.xlsx,Laporan,E5,L2_v1,text_na,,fixed,subtotal,2991.0
+laporan_G2_2026-08.xlsx,Laporan,F259,L2_v1,outlier,210,fixed,subtotal,21.0
+laporan_G2_2026-08.xlsx,Laporan,F310,L2_v1,outlier,400,fixed,subtotal,40.0
+laporan_G2_2026-08.xlsx,Laporan,F393,L2_v1,unit_text,61 btl,fixed,strip_unit,61.0
+laporan_G2_2026-08.xlsx,Laporan,F9,L2_v1,outlier,160,fixed,subtotal,16.0
+laporan_G2_2026-08.xlsx,Laporan,G140,L2_v1,text_na,,fixed,subtotal,3150.0
+laporan_G2_2026-08.xlsx,Laporan,G163,L2_v1,text_na,,fixed,subtotal,1539.0
+laporan_G2_2026-08.xlsx,Laporan,G198,L2_v1,dash,-,fixed,subtotal,1548.0
+laporan_G2_2026-08.xlsx,Laporan,G269,L2_v1,unit_text,3595 btl,fixed,strip_unit,3595.0
+laporan_G2_2026-08.xlsx,Laporan,G329,L2_v1,dash,-,fixed,subtotal,3145.0
+laporan_G2_2026-08.xlsx,Laporan,G37,L2_v1,unit_text,1392 btl,fixed,strip_unit,1392.0
+laporan_G2_2026-08.xlsx,Laporan,G513,L2_v1,text_na,,fixed,subtotal,1488.0
+laporan_G2_2026-08.xlsx,Laporan,G98,L2_v1,unit_text,3189 btl,fixed,strip_unit,3189.0
+laporan_G2_2026-08.xlsx,Laporan,H140,L2_v1,dash,-,fixed,subtotal,62.0
+laporan_G2_2026-08.xlsx,Laporan,H162,L2_v1,unit_text,41 btl,fixed,strip_unit,41.0
+laporan_G2_2026-08.xlsx,Laporan,H261,L2_v1,text_na,,fixed,subtotal,5.0
+laporan_G2_2026-08.xlsx,Laporan,H342,L2_v1,dash,-,fixed,subtotal,34.0
+laporan_G2_2026-08.xlsx,Laporan,H373,L2_v1,outlier,380,fixed,subtotal,38.0
+laporan_G2_2026-08.xlsx,Laporan,H405,L2_v1,outlier,260,fixed,subtotal,26.0
+laporan_G2_2026-08.xlsx,Laporan,H90,L2_v1,outlier,210,fixed,subtotal,21.0
+laporan_G3_2026-03.xlsx,Minggu 1,E7,L3_v1,outlier,600,flagged,,600.0
+laporan_G3_2026-03.xlsx,Minggu 1,F29,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,G34,L3_v1,unit_text,43 btl,fixed,strip_unit,43.0
+laporan_G3_2026-03.xlsx,Minggu 1,H33,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,K14,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,L14,L3_v1,outlier,26490,flagged,,26490.0
+laporan_G3_2026-03.xlsx,Minggu 1,L20,L3_v1,outlier,28070,flagged,,28070.0
+laporan_G3_2026-03.xlsx,Minggu 1,L21,L3_v1,unit_text,3052 btl,fixed,strip_unit,3052.0
+laporan_G3_2026-03.xlsx,Minggu 1,M12,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,M13,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,M33,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 1,O14,L3_v1,unit_text,16 btl,fixed,strip_unit,16.0
+laporan_G3_2026-03.xlsx,Minggu 2,E10,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,G24,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,I21,L3_v1,unit_text,22 btl,fixed,strip_unit,22.0
+laporan_G3_2026-03.xlsx,Minggu 2,I30,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,J15,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,J25,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,M5,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 2,N11,L3_v1,unit_text,1509 btl,fixed,strip_unit,1509.0
+laporan_G3_2026-03.xlsx,Minggu 3,E33,L3_v1,unit_text,52 btl,fixed,strip_unit,52.0
+laporan_G3_2026-03.xlsx,Minggu 3,G24,L3_v1,outlier,290,flagged,,290.0
+laporan_G3_2026-03.xlsx,Minggu 3,I14,L3_v1,unit_text,19 btl,fixed,strip_unit,19.0
+laporan_G3_2026-03.xlsx,Minggu 3,I7,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 3,O14,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 3,O15,L3_v1,outlier,190,flagged,,190.0
+laporan_G3_2026-03.xlsx,Minggu 3,O33,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 4,F7,L3_v1,outlier,25240,flagged,,25240.0
+laporan_G3_2026-03.xlsx,Minggu 4,I7,L3_v1,unit_text,15 btl,fixed,strip_unit,15.0
+laporan_G3_2026-03.xlsx,Minggu 4,K19,L3_v1,outlier,260,flagged,,260.0
+laporan_G3_2026-03.xlsx,Minggu 4,N10,L3_v1,text_na,,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 4,O31,L3_v1,outlier,110,flagged,,110.0
+laporan_G3_2026-03.xlsx,Minggu 5,D24,L3_v1,outlier,32320,flagged,,32320.0
+laporan_G3_2026-03.xlsx,Minggu 5,F17,L3_v1,unit_text,2673 btl,fixed,strip_unit,2673.0
+laporan_G3_2026-03.xlsx,Minggu 5,L12,L3_v1,dash,-,flagged,,
+laporan_G3_2026-03.xlsx,Minggu 5,N14,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,E26,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,E27,L3_v1,outlier,580,flagged,,580.0
+laporan_G3_2026-04.xlsx,Minggu 1,E5,L3_v1,unit_text,50 btl,fixed,strip_unit,50.0
+laporan_G3_2026-04.xlsx,Minggu 1,F12,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,F9,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,H17,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,I34,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,J5,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,L34,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 1,N10,L3_v1,outlier,16150,flagged,,16150.0
+laporan_G3_2026-04.xlsx,Minggu 1,N28,L3_v1,unit_text,1549 btl,fixed,strip_unit,1549.0
+laporan_G3_2026-04.xlsx,Minggu 2,E10,L3_v1,outlier,530,flagged,,530.0
+laporan_G3_2026-04.xlsx,Minggu 2,E22,L3_v1,outlier,440,flagged,,440.0
+laporan_G3_2026-04.xlsx,Minggu 2,H34,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 2,I33,L3_v1,outlier,240,flagged,,240.0
+laporan_G3_2026-04.xlsx,Minggu 2,N32,L3_v1,unit_text,1605 btl,fixed,strip_unit,1605.0
+laporan_G3_2026-04.xlsx,Minggu 2,N8,L3_v1,unit_text,1537 btl,fixed,strip_unit,1537.0
+laporan_G3_2026-04.xlsx,Minggu 3,H16,L3_v1,outlier,15340,flagged,,15340.0
+laporan_G3_2026-04.xlsx,Minggu 3,H33,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 3,I8,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 3,J15,L3_v1,outlier,31790,flagged,,31790.0
+laporan_G3_2026-04.xlsx,Minggu 3,L30,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 3,N22,L3_v1,unit_text,1467 btl,fixed,strip_unit,1467.0
+laporan_G3_2026-04.xlsx,Minggu 4,D19,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 4,D29,L3_v1,outlier,33360,flagged,,33360.0
+laporan_G3_2026-04.xlsx,Minggu 4,K31,L3_v1,unit_text,32 btl,fixed,strip_unit,32.0
+laporan_G3_2026-04.xlsx,Minggu 4,L11,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 4,M7,L3_v1,unit_text,22 btl,fixed,strip_unit,22.0
+laporan_G3_2026-04.xlsx,Minggu 4,N11,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 5,D10,L3_v1,unit_text,3001 btl,fixed,strip_unit,3001.0
+laporan_G3_2026-04.xlsx,Minggu 5,D11,L3_v1,unit_text,3642 btl,fixed,strip_unit,3642.0
+laporan_G3_2026-04.xlsx,Minggu 5,E10,L3_v1,text_na,,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 5,G17,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 5,G8,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 5,H34,L3_v1,dash,-,flagged,,
+laporan_G3_2026-04.xlsx,Minggu 5,M11,L3_v1,outlier,340,flagged,,340.0
+laporan_G3_2026-05.xlsx,Minggu 1,E33,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,H31,L3_v1,outlier,13560,flagged,,13560.0
+laporan_G3_2026-05.xlsx,Minggu 1,I33,L3_v1,outlier,250,flagged,,250.0
+laporan_G3_2026-05.xlsx,Minggu 1,K29,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,L16,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,L7,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,M34,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,N15,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 1,N9,L3_v1,outlier,16320,flagged,,16320.0
+laporan_G3_2026-05.xlsx,Minggu 1,O5,L3_v1,outlier,180,flagged,,180.0
+laporan_G3_2026-05.xlsx,Minggu 2,D11,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 2,D32,L3_v1,unit_text,3265 btl,fixed,strip_unit,3265.0
+laporan_G3_2026-05.xlsx,Minggu 2,E29,L3_v1,outlier,490,flagged,,490.0
+laporan_G3_2026-05.xlsx,Minggu 2,F24,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 2,J18,L3_v1,unit_text,3245 btl,fixed,strip_unit,3245.0
+laporan_G3_2026-05.xlsx,Minggu 2,L21,L3_v1,unit_text,3174 btl,fixed,strip_unit,3174.0
+laporan_G3_2026-05.xlsx,Minggu 3,F33,L3_v1,unit_text,2907 btl,fixed,strip_unit,2907.0
+laporan_G3_2026-05.xlsx,Minggu 3,F8,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 3,G32,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 3,H18,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 3,I5,L3_v1,unit_text,30 btl,fixed,strip_unit,30.0
+laporan_G3_2026-05.xlsx,Minggu 3,M26,L3_v1,outlier,300,flagged,,300.0
+laporan_G3_2026-05.xlsx,Minggu 3,O16,L3_v1,unit_text,21 btl,fixed,strip_unit,21.0
+laporan_G3_2026-05.xlsx,Minggu 4,D5,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 4,F25,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 4,G7,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 4,H17,L3_v1,unit_text,1267 btl,fixed,strip_unit,1267.0
+laporan_G3_2026-05.xlsx,Minggu 4,H18,L3_v1,outlier,15040,flagged,,15040.0
+laporan_G3_2026-05.xlsx,Minggu 4,I13,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 4,M26,L3_v1,dash,-,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 4,N22,L3_v1,outlier,15810,flagged,,15810.0
+laporan_G3_2026-05.xlsx,Minggu 4,N28,L3_v1,unit_text,1572 btl,fixed,strip_unit,1572.0
+laporan_G3_2026-05.xlsx,Minggu 5,D22,L3_v1,outlier,32200,flagged,,32200.0
+laporan_G3_2026-05.xlsx,Minggu 5,J9,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 5,M16,L3_v1,text_na,,flagged,,
+laporan_G3_2026-05.xlsx,Minggu 5,N7,L3_v1,unit_text,1471 btl,fixed,strip_unit,1471.0
+laporan_G3_2026-06.xlsx,Wk1,F21,L3_v2,outlier,30370,flagged,,30370.0
+laporan_G3_2026-06.xlsx,Wk1,H27,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk1,I28,L3_v2,unit_text,21 btl,fixed,strip_unit,21.0
+laporan_G3_2026-06.xlsx,Wk1,J23,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk1,K29,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk1,N21,L3_v2,unit_text,1523 btl,fixed,strip_unit,1523.0
+laporan_G3_2026-06.xlsx,Wk1,N8,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk2,D10,L3_v2,unit_text,3182 btl,fixed,strip_unit,3182.0
+laporan_G3_2026-06.xlsx,Wk2,D34,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk2,H7,L3_v2,unit_text,1494 btl,fixed,strip_unit,1494.0
+laporan_G3_2026-06.xlsx,Wk2,I18,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk2,K6,L3_v2,unit_text,32 btl,fixed,strip_unit,32.0
+laporan_G3_2026-06.xlsx,Wk2,L15,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk2,M25,L3_v2,unit_text,25 btl,fixed,strip_unit,25.0
+laporan_G3_2026-06.xlsx,Wk2,N21,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk2,O22,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk3,E21,L3_v2,unit_text,45 btl,fixed,strip_unit,45.0
+laporan_G3_2026-06.xlsx,Wk3,F32,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk3,G25,L3_v2,outlier,400,flagged,,400.0
+laporan_G3_2026-06.xlsx,Wk3,H6,L3_v2,outlier,15010,flagged,,15010.0
+laporan_G3_2026-06.xlsx,Wk3,H7,L3_v2,outlier,16380,flagged,,16380.0
+laporan_G3_2026-06.xlsx,Wk3,I14,L3_v2,outlier,220,flagged,,220.0
+laporan_G3_2026-06.xlsx,Wk3,I15,L3_v2,outlier,280,flagged,,280.0
+laporan_G3_2026-06.xlsx,Wk3,J14,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk3,K23,L3_v2,outlier,360,flagged,,360.0
+laporan_G3_2026-06.xlsx,Wk3,L6,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk3,N26,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk4,E32,L3_v2,unit_text,46 btl,fixed,strip_unit,46.0
+laporan_G3_2026-06.xlsx,Wk4,G19,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk4,I24,L3_v2,outlier,170,flagged,,170.0
+laporan_G3_2026-06.xlsx,Wk4,K19,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk4,K5,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk4,N30,L3_v2,text_na,,flagged,,
+laporan_G3_2026-06.xlsx,Wk5,J18,L3_v2,unit_text,3027 btl,fixed,strip_unit,3027.0
+laporan_G3_2026-06.xlsx,Wk5,L11,L3_v2,dash,-,flagged,,
+laporan_G3_2026-06.xlsx,Wk5,O20,L3_v2,outlier,150,flagged,,150.0
+laporan_G3_2026-07.xlsx,Wk1,F18,L3_v2,unit_text,3021 btl,fixed,strip_unit,3021.0
+laporan_G3_2026-07.xlsx,Wk1,I13,L3_v2,outlier,160,flagged,,160.0
+laporan_G3_2026-07.xlsx,Wk1,J20,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk1,J31,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk1,K9,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk1,L29,L3_v2,outlier,29030,flagged,,29030.0
+laporan_G3_2026-07.xlsx,Wk1,N30,L3_v2,outlier,13880,flagged,,13880.0
+laporan_G3_2026-07.xlsx,Wk1,O15,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk1,O21,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk2,E19,L3_v2,outlier,410,flagged,,410.0
+laporan_G3_2026-07.xlsx,Wk2,E23,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk2,E31,L3_v2,unit_text,40 btl,fixed,strip_unit,40.0
+laporan_G3_2026-07.xlsx,Wk2,G19,L3_v2,unit_text,29 btl,fixed,strip_unit,29.0
+laporan_G3_2026-07.xlsx,Wk2,J30,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk2,L5,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk2,M5,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk2,O7,L3_v2,outlier,170,flagged,,170.0
+laporan_G3_2026-07.xlsx,Wk3,D11,L3_v2,unit_text,3399 btl,fixed,strip_unit,3399.0
+laporan_G3_2026-07.xlsx,Wk3,H10,L3_v2,outlier,17110,flagged,,17110.0
+laporan_G3_2026-07.xlsx,Wk3,H12,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk3,L11,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk3,M17,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk3,N10,L3_v2,unit_text,1602 btl,fixed,strip_unit,1602.0
+laporan_G3_2026-07.xlsx,Wk3,N28,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk3,N8,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk4,F24,L3_v2,outlier,25850,flagged,,25850.0
+laporan_G3_2026-07.xlsx,Wk4,F8,L3_v2,outlier,29850,flagged,,29850.0
+laporan_G3_2026-07.xlsx,Wk4,J25,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk4,M5,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk4,N26,L3_v2,unit_text,1511 btl,fixed,strip_unit,1511.0
+laporan_G3_2026-07.xlsx,Wk4,N29,L3_v2,dash,-,flagged,,
+laporan_G3_2026-07.xlsx,Wk4,O24,L3_v2,unit_text,7 btl,fixed,strip_unit,7.0
+laporan_G3_2026-07.xlsx,Wk4,O30,L3_v2,text_na,,flagged,,
+laporan_G3_2026-07.xlsx,Wk4,O7,L3_v2,unit_text,17 btl,fixed,strip_unit,17.0
+laporan_G3_2026-07.xlsx,Wk5,G23,L3_v2,unit_text,42 btl,fixed,strip_unit,42.0
+laporan_G3_2026-07.xlsx,Wk5,L12,L3_v2,outlier,25760,flagged,,25760.0
+laporan_G3_2026-08.xlsx,Wk1,D29,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk1,F17,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk1,G15,L3_v2,unit_text,44 btl,fixed,strip_unit,44.0
+laporan_G3_2026-08.xlsx,Wk1,G21,L3_v2,outlier,300,flagged,,300.0
+laporan_G3_2026-08.xlsx,Wk1,K12,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk1,K25,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk1,K31,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk1,M30,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk2,D22,L3_v2,unit_text,3317 btl,fixed,strip_unit,3317.0
+laporan_G3_2026-08.xlsx,Wk2,G16,L3_v2,unit_text,43 btl,fixed,strip_unit,43.0
+laporan_G3_2026-08.xlsx,Wk2,K11,L3_v2,unit_text,33 btl,fixed,strip_unit,33.0
+laporan_G3_2026-08.xlsx,Wk2,L7,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk2,M24,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk2,O28,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk3,E16,L3_v2,unit_text,51 btl,fixed,strip_unit,51.0
+laporan_G3_2026-08.xlsx,Wk3,F18,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk3,I13,L3_v2,outlier,260,flagged,,260.0
+laporan_G3_2026-08.xlsx,Wk3,I23,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk3,I8,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk3,K20,L3_v2,outlier,310,flagged,,310.0
+laporan_G3_2026-08.xlsx,Wk3,L12,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk4,D32,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk4,F24,L3_v2,unit_text,2915 btl,fixed,strip_unit,2915.0
+laporan_G3_2026-08.xlsx,Wk4,F28,L3_v2,outlier,27130,flagged,,27130.0
+laporan_G3_2026-08.xlsx,Wk4,G24,L3_v2,outlier,520,flagged,,520.0
+laporan_G3_2026-08.xlsx,Wk4,I27,L3_v2,outlier,150,flagged,,150.0
+laporan_G3_2026-08.xlsx,Wk4,J6,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk4,K17,L3_v2,unit_text,40 btl,fixed,strip_unit,40.0
+laporan_G3_2026-08.xlsx,Wk4,K23,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk4,L25,L3_v2,outlier,28810,flagged,,28810.0
+laporan_G3_2026-08.xlsx,Wk4,O33,L3_v2,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G3_2026-08.xlsx,Wk5,E17,L3_v2,outlier,350,flagged,,350.0
+laporan_G3_2026-08.xlsx,Wk5,F8,L3_v2,text_na,,flagged,,
+laporan_G3_2026-08.xlsx,Wk5,H11,L3_v2,unit_text,1428 btl,fixed,strip_unit,1428.0
+laporan_G3_2026-08.xlsx,Wk5,K6,L3_v2,dash,-,flagged,,
+laporan_G3_2026-08.xlsx,Wk5,N28,L3_v2,outlier,14180,flagged,,14180.0
+laporan_G4_2026-03.xlsx,Output,E154,L4_v1,outlier,28660,flagged,,28660.0
+laporan_G4_2026-03.xlsx,Output,E19,L4_v1,outlier,31910,flagged,,31910.0
+laporan_G4_2026-03.xlsx,Output,E239,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,E260,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,E35,L4_v1,unit_text,1593 btl,fixed,strip_unit,1593.0
+laporan_G4_2026-03.xlsx,Output,E364,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,E389,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,E40,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,E415,L4_v1,unit_text,2779 btl,fixed,strip_unit,2779.0
+laporan_G4_2026-03.xlsx,Output,E42,L4_v1,unit_text,3376 btl,fixed,strip_unit,3376.0
+laporan_G4_2026-03.xlsx,Output,E49,L4_v1,unit_text,2964 btl,fixed,strip_unit,2964.0
+laporan_G4_2026-03.xlsx,Output,F104,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,F132,L4_v1,unit_text,23 btl,fixed,strip_unit,23.0
+laporan_G4_2026-03.xlsx,Output,F137,L4_v1,outlier,70,flagged,,70.0
+laporan_G4_2026-03.xlsx,Output,F179,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F21,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F230,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F300,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F348,L4_v1,unit_text,15 btl,fixed,strip_unit,15.0
+laporan_G4_2026-03.xlsx,Output,F36,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F38,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,F440,L4_v1,outlier,50,flagged,,50.0
+laporan_G4_2026-03.xlsx,Output,L100,L4_v1,outlier,30800,flagged,,30800.0
+laporan_G4_2026-03.xlsx,Output,L255,L4_v1,outlier,33710,flagged,,33710.0
+laporan_G4_2026-03.xlsx,Output,L344,L4_v1,outlier,15250,flagged,,15250.0
+laporan_G4_2026-03.xlsx,Output,L345,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,L425,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,L53,L4_v1,outlier,15620,flagged,,15620.0
+laporan_G4_2026-03.xlsx,Output,L54,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,M108,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,M163,L4_v1,outlier,70,flagged,,70.0
+laporan_G4_2026-03.xlsx,Output,M167,L4_v1,unit_text,16 btl,fixed,strip_unit,16.0
+laporan_G4_2026-03.xlsx,Output,M218,L4_v1,dash,-,flagged,,
+laporan_G4_2026-03.xlsx,Output,M402,L4_v1,unit_text,25 btl,fixed,strip_unit,25.0
+laporan_G4_2026-03.xlsx,Output,M435,L4_v1,text_na,,flagged,,
+laporan_G4_2026-03.xlsx,Output,M90,L4_v1,unit_text,18 btl,fixed,strip_unit,18.0
+laporan_G4_2026-04.xlsx,Output,E115,L4_v1,unit_text,2843 btl,fixed,strip_unit,2843.0
+laporan_G4_2026-04.xlsx,Output,E244,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,E342,L4_v1,unit_text,3218 btl,fixed,strip_unit,3218.0
+laporan_G4_2026-04.xlsx,Output,E378,L4_v1,unit_text,3376 btl,fixed,strip_unit,3376.0
+laporan_G4_2026-04.xlsx,Output,E409,L4_v1,outlier,28020,flagged,,28020.0
+laporan_G4_2026-04.xlsx,Output,E99,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,F117,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,F118,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,F155,L4_v1,outlier,190,flagged,,190.0
+laporan_G4_2026-04.xlsx,Output,F158,L4_v1,outlier,80,flagged,,80.0
+laporan_G4_2026-04.xlsx,Output,F218,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,F224,L4_v1,outlier,130,flagged,,130.0
+laporan_G4_2026-04.xlsx,Output,F356,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,F415,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,F427,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,L20,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,L206,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,L236,L4_v1,outlier,15080,flagged,,15080.0
+laporan_G4_2026-04.xlsx,Output,L25,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,L36,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,L393,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,L403,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,L405,L4_v1,unit_text,3253 btl,fixed,strip_unit,3253.0
+laporan_G4_2026-04.xlsx,Output,L409,L4_v1,unit_text,2948 btl,fixed,strip_unit,2948.0
+laporan_G4_2026-04.xlsx,Output,L415,L4_v1,unit_text,2510 btl,fixed,strip_unit,2510.0
+laporan_G4_2026-04.xlsx,Output,L419,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,L435,L4_v1,unit_text,3430 btl,fixed,strip_unit,3430.0
+laporan_G4_2026-04.xlsx,Output,M181,L4_v1,outlier,150,flagged,,150.0
+laporan_G4_2026-04.xlsx,Output,M200,L4_v1,dash,-,flagged,,
+laporan_G4_2026-04.xlsx,Output,M266,L4_v1,outlier,130,flagged,,130.0
+laporan_G4_2026-04.xlsx,Output,M276,L4_v1,text_na,,flagged,,
+laporan_G4_2026-04.xlsx,Output,M311,L4_v1,outlier,140,flagged,,140.0
+laporan_G4_2026-04.xlsx,Output,M359,L4_v1,outlier,120,flagged,,120.0
+laporan_G4_2026-04.xlsx,Output,M379,L4_v1,unit_text,12 btl,fixed,strip_unit,12.0
+laporan_G4_2026-04.xlsx,Output,M395,L4_v1,unit_text,26 btl,fixed,strip_unit,26.0
+laporan_G4_2026-04.xlsx,Output,M426,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,E105,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,E12,L4_v1,unit_text,3173 btl,fixed,strip_unit,3173.0
+laporan_G4_2026-05.xlsx,Output,E129,L4_v1,outlier,31340,flagged,,31340.0
+laporan_G4_2026-05.xlsx,Output,E201,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,E228,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,E238,L4_v1,unit_text,2405 btl,fixed,strip_unit,2405.0
+laporan_G4_2026-05.xlsx,Output,E258,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,E303,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,E428,L4_v1,outlier,15190,flagged,,15190.0
+laporan_G4_2026-05.xlsx,Output,E451,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,F181,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,F23,L4_v1,outlier,160,flagged,,160.0
+laporan_G4_2026-05.xlsx,Output,F238,L4_v1,unit_text,39 btl,fixed,strip_unit,39.0
+laporan_G4_2026-05.xlsx,Output,F308,L4_v1,outlier,80,flagged,,80.0
+laporan_G4_2026-05.xlsx,Output,F353,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,F37,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,F386,L4_v1,unit_text,5 btl,fixed,strip_unit,5.0
+laporan_G4_2026-05.xlsx,Output,F397,L4_v1,outlier,160,flagged,,160.0
+laporan_G4_2026-05.xlsx,Output,F443,L4_v1,unit_text,10 btl,fixed,strip_unit,10.0
+laporan_G4_2026-05.xlsx,Output,F48,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,F80,L4_v1,outlier,50,flagged,,50.0
+laporan_G4_2026-05.xlsx,Output,L105,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,L196,L4_v1,outlier,21990,flagged,,21990.0
+laporan_G4_2026-05.xlsx,Output,L247,L4_v1,outlier,30290,flagged,,30290.0
+laporan_G4_2026-05.xlsx,Output,L304,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,L360,L4_v1,unit_text,3287 btl,fixed,strip_unit,3287.0
+laporan_G4_2026-05.xlsx,Output,L384,L4_v1,unit_text,3238 btl,fixed,strip_unit,3238.0
+laporan_G4_2026-05.xlsx,Output,L50,L4_v1,outlier,14930,flagged,,14930.0
+laporan_G4_2026-05.xlsx,Output,M105,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,M125,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,M269,L4_v1,unit_text,19 btl,fixed,strip_unit,19.0
+laporan_G4_2026-05.xlsx,Output,M332,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,M354,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,M360,L4_v1,dash,-,flagged,,
+laporan_G4_2026-05.xlsx,Output,M408,L4_v1,text_na,,flagged,,
+laporan_G4_2026-05.xlsx,Output,M45,L4_v1,unit_text,38 btl,fixed,strip_unit,38.0
+laporan_G4_2026-06.xlsx,Output,E100,L4_v1,outlier,26170,flagged,,26170.0
+laporan_G4_2026-06.xlsx,Output,E123,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,E128,L4_v1,outlier,14380,flagged,,14380.0
+laporan_G4_2026-06.xlsx,Output,E14,L4_v1,outlier,15740,flagged,,15740.0
+laporan_G4_2026-06.xlsx,Output,E186,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,E241,L4_v1,unit_text,2697 btl,fixed,strip_unit,2697.0
+laporan_G4_2026-06.xlsx,Output,E33,L4_v1,unit_text,2964 btl,fixed,strip_unit,2964.0
+laporan_G4_2026-06.xlsx,Output,E409,L4_v1,outlier,26350,flagged,,26350.0
+laporan_G4_2026-06.xlsx,Output,E438,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,E61,L4_v1,unit_text,2796 btl,fixed,strip_unit,2796.0
+laporan_G4_2026-06.xlsx,Output,E79,L4_v1,outlier,29110,flagged,,29110.0
+laporan_G4_2026-06.xlsx,Output,E85,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,F138,L4_v1,outlier,260,flagged,,260.0
+laporan_G4_2026-06.xlsx,Output,F145,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,F16,L4_v1,outlier,220,flagged,,220.0
+laporan_G4_2026-06.xlsx,Output,F249,L4_v1,unit_text,47 btl,fixed,strip_unit,47.0
+laporan_G4_2026-06.xlsx,Output,F302,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,F394,L4_v1,unit_text,38 btl,fixed,strip_unit,38.0
+laporan_G4_2026-06.xlsx,Output,F399,L4_v1,outlier,430,flagged,,430.0
+laporan_G4_2026-06.xlsx,Output,F435,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,F449,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,F46,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,F47,L4_v1,unit_text,20 btl,fixed,strip_unit,20.0
+laporan_G4_2026-06.xlsx,Output,F94,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,L25,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,L281,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,L369,L4_v1,outlier,32570,flagged,,32570.0
+laporan_G4_2026-06.xlsx,Output,L399,L4_v1,unit_text,3543 btl,fixed,strip_unit,3543.0
+laporan_G4_2026-06.xlsx,Output,L427,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,L429,L4_v1,unit_text,3058 btl,fixed,strip_unit,3058.0
+laporan_G4_2026-06.xlsx,Output,L433,L4_v1,unit_text,3004 btl,fixed,strip_unit,3004.0
+laporan_G4_2026-06.xlsx,Output,L89,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,M104,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,M116,L4_v1,text_na,,flagged,,
+laporan_G4_2026-06.xlsx,Output,M210,L4_v1,dash,-,flagged,,
+laporan_G4_2026-06.xlsx,Output,M93,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,E20,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,E239,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,E260,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,E266,L4_v1,outlier,14390,flagged,,14390.0
+laporan_G4_2026-07.xlsx,Output,E271,L4_v1,unit_text,2298 btl,fixed,strip_unit,2298.0
+laporan_G4_2026-07.xlsx,Output,E332,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,E344,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,E376,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,E428,L4_v1,outlier,14730,flagged,,14730.0
+laporan_G4_2026-07.xlsx,Output,E48,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,E74,L4_v1,outlier,14700,flagged,,14700.0
+laporan_G4_2026-07.xlsx,Output,E93,L4_v1,unit_text,2850 btl,fixed,strip_unit,2850.0
+laporan_G4_2026-07.xlsx,Output,F118,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,F129,L4_v1,unit_text,41 btl,fixed,strip_unit,41.0
+laporan_G4_2026-07.xlsx,Output,F392,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,F409,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,F430,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,F86,L4_v1,unit_text,9 btl,fixed,strip_unit,9.0
+laporan_G4_2026-07.xlsx,Output,F93,L4_v1,outlier,380,flagged,,380.0
+laporan_G4_2026-07.xlsx,Output,L112,L4_v1,unit_text,2938 btl,fixed,strip_unit,2938.0
+laporan_G4_2026-07.xlsx,Output,L217,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,L230,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,L250,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,L307,L4_v1,unit_text,2593 btl,fixed,strip_unit,2593.0
+laporan_G4_2026-07.xlsx,Output,L409,L4_v1,unit_text,3015 btl,fixed,strip_unit,3015.0
+laporan_G4_2026-07.xlsx,Output,L427,L4_v1,unit_text,2489 btl,fixed,strip_unit,2489.0
+laporan_G4_2026-07.xlsx,Output,L448,L4_v1,outlier,28020,flagged,,28020.0
+laporan_G4_2026-07.xlsx,Output,L59,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,L78,L4_v1,outlier,32890,flagged,,32890.0
+laporan_G4_2026-07.xlsx,Output,L90,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,M186,L4_v1,dash,-,flagged,,
+laporan_G4_2026-07.xlsx,Output,M313,L4_v1,text_na,,flagged,,
+laporan_G4_2026-07.xlsx,Output,M362,L4_v1,outlier,80,flagged,,80.0
+laporan_G4_2026-07.xlsx,Output,M371,L4_v1,outlier,220,flagged,,220.0
+laporan_G4_2026-07.xlsx,Output,M425,L4_v1,outlier,150,flagged,,150.0
+laporan_G4_2026-07.xlsx,Output,M438,L4_v1,unit_text,26 btl,fixed,strip_unit,26.0
+laporan_G4_2026-08.xlsx,Output,E228,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,E237,L4_v1,outlier,30110,flagged,,30110.0
+laporan_G4_2026-08.xlsx,Output,E265,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,E27,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,E319,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,E335,L4_v1,outlier,14880,flagged,,14880.0
+laporan_G4_2026-08.xlsx,Output,E417,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,E75,L4_v1,outlier,30550,flagged,,30550.0
+laporan_G4_2026-08.xlsx,Output,F12,L4_v1,outlier,130,flagged,,130.0
+laporan_G4_2026-08.xlsx,Output,F128,L4_v1,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G4_2026-08.xlsx,Output,F135,L4_v1,unit_text,28 btl,fixed,strip_unit,28.0
+laporan_G4_2026-08.xlsx,Output,F162,L4_v1,outlier,130,flagged,,130.0
+laporan_G4_2026-08.xlsx,Output,F176,L4_v1,outlier,60,flagged,,60.0
+laporan_G4_2026-08.xlsx,Output,F289,L4_v1,outlier,140,flagged,,140.0
+laporan_G4_2026-08.xlsx,Output,F29,L4_v1,outlier,190,flagged,,190.0
+laporan_G4_2026-08.xlsx,Output,F296,L4_v1,unit_text,10 btl,fixed,strip_unit,10.0
+laporan_G4_2026-08.xlsx,Output,F298,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,F302,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,F347,L4_v1,unit_text,22 btl,fixed,strip_unit,22.0
+laporan_G4_2026-08.xlsx,Output,F421,L4_v1,unit_text,19 btl,fixed,strip_unit,19.0
+laporan_G4_2026-08.xlsx,Output,F442,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,F92,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,L193,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,L196,L4_v1,unit_text,2438 btl,fixed,strip_unit,2438.0
+laporan_G4_2026-08.xlsx,Output,L208,L4_v1,unit_text,3075 btl,fixed,strip_unit,3075.0
+laporan_G4_2026-08.xlsx,Output,L254,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,L321,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,L450,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,L76,L4_v1,unit_text,2726 btl,fixed,strip_unit,2726.0
+laporan_G4_2026-08.xlsx,Output,M156,L4_v1,text_na,,flagged,,
+laporan_G4_2026-08.xlsx,Output,M206,L4_v1,outlier,70,flagged,,70.0
+laporan_G4_2026-08.xlsx,Output,M241,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,M255,L4_v1,unit_text,49 btl,fixed,strip_unit,49.0
+laporan_G4_2026-08.xlsx,Output,M351,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,M403,L4_v1,dash,-,flagged,,
+laporan_G4_2026-08.xlsx,Output,M447,L4_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,E124,L6_v1,unit_text,1409 btl,fixed,strip_unit,1409.0
+laporan_G6_2026-03.xlsx,Rekap,E139,L6_v1,unit_text,1430 btl,fixed,strip_unit,1430.0
+laporan_G6_2026-03.xlsx,Rekap,E186,L6_v1,outlier,31110,flagged,,31110.0
+laporan_G6_2026-03.xlsx,Rekap,E216,L6_v1,outlier,29040,flagged,,29040.0
+laporan_G6_2026-03.xlsx,Rekap,E266,L6_v1,text_na,,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,E313,L6_v1,unit_text,1517 btl,fixed,strip_unit,1517.0
+laporan_G6_2026-03.xlsx,Rekap,E380,L6_v1,text_na,,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,E432,L6_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,E50,L6_v1,text_na,,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,E78,L6_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F149,L6_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F155,L6_v1,outlier,150,flagged,,150.0
+laporan_G6_2026-03.xlsx,Rekap,F164,L6_v1,text_na,,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F168,L6_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F402,L6_v1,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G6_2026-03.xlsx,Rekap,F434,L6_v1,dash,-,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F445,L6_v1,text_na,,flagged,,
+laporan_G6_2026-03.xlsx,Rekap,F83,L6_v1,outlier,70,flagged,,70.0
+laporan_G6_2026-04.xlsx,Rekap,E119,L6_v1,outlier,28460,flagged,,28460.0
+laporan_G6_2026-04.xlsx,Rekap,E15,L6_v1,text_na,,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,E161,L6_v1,unit_text,3083 btl,fixed,strip_unit,3083.0
+laporan_G6_2026-04.xlsx,Rekap,E234,L6_v1,outlier,28280,flagged,,28280.0
+laporan_G6_2026-04.xlsx,Rekap,E43,L6_v1,outlier,15640,flagged,,15640.0
+laporan_G6_2026-04.xlsx,Rekap,E66,L6_v1,dash,-,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,E89,L6_v1,text_na,,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F151,L6_v1,outlier,50,flagged,,50.0
+laporan_G6_2026-04.xlsx,Rekap,F217,L6_v1,dash,-,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F229,L6_v1,dash,-,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F236,L6_v1,unit_text,16 btl,fixed,strip_unit,16.0
+laporan_G6_2026-04.xlsx,Rekap,F269,L6_v1,text_na,,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F282,L6_v1,text_na,,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F285,L6_v1,unit_text,11 btl,fixed,strip_unit,11.0
+laporan_G6_2026-04.xlsx,Rekap,F29,L6_v1,unit_text,4 btl,fixed,strip_unit,4.0
+laporan_G6_2026-04.xlsx,Rekap,F328,L6_v1,dash,-,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F421,L6_v1,dash,-,flagged,,
+laporan_G6_2026-04.xlsx,Rekap,F72,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E112,L6_v1,unit_text,1538 btl,fixed,strip_unit,1538.0
+laporan_G6_2026-05.xlsx,Rekap,E194,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E25,L6_v1,outlier,16910,flagged,,16910.0
+laporan_G6_2026-05.xlsx,Rekap,E386,L6_v1,dash,-,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E390,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E395,L6_v1,dash,-,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E422,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E62,L6_v1,dash,-,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,E79,L6_v1,unit_text,1468 btl,fixed,strip_unit,1468.0
+laporan_G6_2026-05.xlsx,Rekap,F100,L6_v1,outlier,60,flagged,,60.0
+laporan_G6_2026-05.xlsx,Rekap,F170,L6_v1,dash,-,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,F183,L6_v1,unit_text,14 btl,fixed,strip_unit,14.0
+laporan_G6_2026-05.xlsx,Rekap,F222,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,F270,L6_v1,text_na,,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,F306,L6_v1,outlier,40,flagged,,40.0
+laporan_G6_2026-05.xlsx,Rekap,F342,L6_v1,dash,-,flagged,,
+laporan_G6_2026-05.xlsx,Rekap,F352,L6_v1,unit_text,5 btl,fixed,strip_unit,5.0
+laporan_G6_2026-05.xlsx,Rekap,F74,L6_v1,outlier,90,flagged,,90.0
+laporan_G6_2026-06.xlsx,Rekap,E132,L6_v1,outlier,29230,flagged,,29230.0
+laporan_G6_2026-06.xlsx,Rekap,E150,L6_v1,unit_text,2761 btl,fixed,strip_unit,2761.0
+laporan_G6_2026-06.xlsx,Rekap,E221,L6_v1,unit_text,3401 btl,fixed,strip_unit,3401.0
+laporan_G6_2026-06.xlsx,Rekap,E276,L6_v1,dash,-,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,E290,L6_v1,outlier,32780,flagged,,32780.0
+laporan_G6_2026-06.xlsx,Rekap,E316,L6_v1,text_na,,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,E62,L6_v1,text_na,,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F122,L6_v1,dash,-,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F208,L6_v1,unit_text,2 btl,fixed,strip_unit,2.0
+laporan_G6_2026-06.xlsx,Rekap,F214,L6_v1,text_na,,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F229,L6_v1,dash,-,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F257,L6_v1,text_na,,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F291,L6_v1,dash,-,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F298,L6_v1,text_na,,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F316,L6_v1,outlier,60,flagged,,60.0
+laporan_G6_2026-06.xlsx,Rekap,F414,L6_v1,unit_text,8 btl,fixed,strip_unit,8.0
+laporan_G6_2026-06.xlsx,Rekap,F85,L6_v1,dash,-,flagged,,
+laporan_G6_2026-06.xlsx,Rekap,F96,L6_v1,outlier,50,flagged,,50.0
+laporan_G6_2026-07.xlsx,Rekap,E172,L6_v1,text_na,,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E222,L6_v1,dash,-,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E276,L6_v1,text_na,,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E305,L6_v1,dash,-,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E331,L6_v1,dash,-,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E337,L6_v1,outlier,15760,flagged,,15760.0
+laporan_G6_2026-07.xlsx,Rekap,E355,L6_v1,unit_text,1659 btl,fixed,strip_unit,1659.0
+laporan_G6_2026-07.xlsx,Rekap,E385,L6_v1,text_na,,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,E392,L6_v1,outlier,34950,flagged,,34950.0
+laporan_G6_2026-07.xlsx,Rekap,E69,L6_v1,unit_text,2329 btl,fixed,strip_unit,2329.0
+laporan_G6_2026-07.xlsx,Rekap,E75,L6_v1,dash,-,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,F107,L6_v1,text_na,,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,F130,L6_v1,unit_text,1 btl,fixed,strip_unit,1.0
+laporan_G6_2026-07.xlsx,Rekap,F20,L6_v1,dash,-,flagged,,
+laporan_G6_2026-07.xlsx,Rekap,F257,L6_v1,unit_text,9 btl,fixed,strip_unit,9.0
+laporan_G6_2026-07.xlsx,Rekap,F374,L6_v1,outlier,70,flagged,,70.0
+laporan_G6_2026-07.xlsx,Rekap,F407,L6_v1,outlier,120,flagged,,120.0
+laporan_G6_2026-07.xlsx,Rekap,F450,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E119,L6_v1,outlier,30130,flagged,,30130.0
+laporan_G6_2026-08.xlsx,Rekap,E127,L6_v1,dash,-,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E129,L6_v1,outlier,27840,flagged,,27840.0
+laporan_G6_2026-08.xlsx,Rekap,E146,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E154,L6_v1,unit_text,1556 btl,fixed,strip_unit,1556.0
+laporan_G6_2026-08.xlsx,Rekap,E220,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E303,L6_v1,dash,-,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E308,L6_v1,dash,-,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E326,L6_v1,outlier,33340,flagged,,33340.0
+laporan_G6_2026-08.xlsx,Rekap,E337,L6_v1,unit_text,1532 btl,fixed,strip_unit,1532.0
+laporan_G6_2026-08.xlsx,Rekap,E383,L6_v1,unit_text,3270 btl,fixed,strip_unit,3270.0
+laporan_G6_2026-08.xlsx,Rekap,E434,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,E5,L6_v1,outlier,34630,flagged,,34630.0
+laporan_G6_2026-08.xlsx,Rekap,E86,L6_v1,dash,-,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,F13,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,F292,L6_v1,text_na,,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,F299,L6_v1,dash,-,flagged,,
+laporan_G6_2026-08.xlsx,Rekap,F35,L6_v1,unit_text,8 btl,fixed,strip_unit,8.0

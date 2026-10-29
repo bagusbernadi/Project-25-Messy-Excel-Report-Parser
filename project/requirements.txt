@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy
+openpyxl>=3.1
+pyyaml
+duckdb>=1.0
+matplotlib
+streamlit>=1.50
+plotly>=5.20
+nbformat
+nbclient
+ipykernel
+pytest
+# opsional: LibreOffice (apt install libreoffice-calc) untuk menghitung ulang rumus pada metode Excel (09_methods_benchmark.py)

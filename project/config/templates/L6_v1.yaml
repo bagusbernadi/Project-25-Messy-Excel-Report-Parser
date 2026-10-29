@@ -1,0 +1,19 @@
+id: L6_v1
+layout: 6
+description: Stasiun melebar (header digabung); ukuran sebagai baris; baris 2 tersembunyi; catatan kaki
+reader: wide_groups
+detect:
+  sheet_regex: '^Rekap$'
+  cells:
+    - {cell: A1, equals: REKAP OUTPUT}
+sheets: {include: '^Rekap$'}
+skip_hidden_rows: true
+group_header_row: 3
+sub_header_row: 4
+first_data_row: 5
+key_columns: {A: date, B: shift, C: slot, D: size}
+first_value_col: E
+group_header: {fields: [station]}
+sub_headers: {Prod: produced, Rej: reject}
+date_formats: ['%d/%m/%Y']
+stop_when_date_unparseable: true  # baris catatan kaki di bawah tabel
