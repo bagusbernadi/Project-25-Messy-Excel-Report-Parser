@@ -354,7 +354,7 @@ assert qn_all == list(range(1, 16)), qn_all
 npr = {k_: sum(1 for v in PRIO.values() if v == k_) for k_ in ("Utama", "Pendukung", "Tambahan")}
 nw = len(WARN)
 wtxt = ", ".join(f"Q{n}" for n in sorted(WARN))
-chips = mk('<div class="qchips">', "".join(f'<a class="qc{" w" if n in WARN else ""}" href="#sec{SEC[n]}" title="{esc(QT[n])}">Q{n}</a>' for n in range(1, 16)), '</div>')
+chips = mk('<div class="qchips">', "".join(f'<a class="qc{" w" if n in WARN else ""}" href="#sec2{SEC[n]}" title="{esc(QT[n])}">Q{n}</a>' for n in range(1, 16)), '</div>')
 rp2 = mk(f'<div class="card"><p><b>Jawaban singkat:</b> semua {len(QT)} pertanyaan terjawab ({npr["Utama"]} Utama, {npr["Pendukung"]} Pendukung, {npr["Tambahan"]} Tambahan). '
          f'{nw} jawaban dengan catatan (kuning): {wtxt}. Klik nomor pertanyaan untuk melompat ke pembahasannya. Pertanyaan utama project dijawab di bagian 7.</p>',
          chips, '<p class="report-note">Q hijau = terjawab, Q kuning = terjawab dengan catatan. Pembahasan dikelompokkan per tabel atau grafik bukti (2.1 sampai 2.8). Catatan kuning pada dasarnya tiga hal: Power Query tidak dijalankan dan waktu manusia tidak diukur, angka dampak memakai asumsi, dan sebagian pembanding tidak dikerjakan (Q14).</p></div>', rp2_body)
